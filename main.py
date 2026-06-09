@@ -112,7 +112,7 @@ def upsert_df(df_rows: pd.DataFrame):
 # ── Fetch ──────────────────────────────────────────────────────────────────────
 def fetch(symbol: str) -> pd.DataFrame | None:
     try:
-        raw = yf.download(symbol, interval="1m", period="1d", progress=False, auto_adjust=True)
+        raw = yf.download(symbol, interval="1m", period="5d", progress=False, auto_adjust=True)
         if raw.empty:
             logger.warning(f"No data: {symbol}")
             return None
