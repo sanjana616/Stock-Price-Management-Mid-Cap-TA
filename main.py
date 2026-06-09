@@ -108,7 +108,7 @@ def upsert_df(df_rows: pd.DataFrame):
 # ── Fetch ──────────────────────────────────────────────────────────────────────
 def fetch(symbol: str) -> pd.DataFrame | None:
     try:
-        raw = yf.download(symbol, interval="1d", period="1y", progress=False, auto_adjust=True)
+        raw = yf.download(symbol, interval="1m", period="1d", progress=False, auto_adjust=True)
         if raw.empty:
             logger.warning(f"No data: {symbol}")
             return None
@@ -121,6 +121,7 @@ def fetch(symbol: str) -> pd.DataFrame | None:
             raw.index = raw.index.tz_localize("UTC")
         raw.index = raw.index.tz_convert(IST)
         df = raw[["open", "high", "low", "close", "volume"]].copy()
+        df = df.iloc[:-1]
         df.dropna(subset=["open", "high", "low", "close"], inplace=True)
         return df
     except Exception as e:
@@ -316,14 +317,6 @@ def update_readme(all_symbols: list[str]):
     conn = sqlite3.connect(DB_NAME)
     now  = datetime.now(IST).strftime("%Y-%m-%d %H:%M:%S IST")
 
-    def _to_ist(dt_str):
-        try:
-            dt = datetime.strptime(dt_str, "%Y-%m-%d %H:%M:%S")
-            dt_utc = pytz.utc.localize(dt)
-            return dt_utc.astimezone(IST).strftime("%Y-%m-%d %H:%M:%S")
-        except Exception:
-            return dt_str
-
     latest_rows = {}
     for sym in all_symbols:
         try:
@@ -332,9 +325,7 @@ def update_readme(all_symbols: list[str]):
                 conn, params=(sym,)
             )
             if not r.empty:
-                row = r.iloc[0].copy()
-                row["datetime"] = _to_ist(row["datetime"])
-                latest_rows[sym] = row
+                latest_rows[sym] = r.iloc[0]
         except Exception as e:
             logger.error(f"DB read error {sym}: {e}")
 
