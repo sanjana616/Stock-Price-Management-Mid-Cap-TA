@@ -3,7 +3,7 @@ import json
 import sqlite3
 import logging
 from logging.handlers import RotatingFileHandler
-from datetime import datetime
+from datetime import datetime, time
 import sys
 
 import pytz
@@ -125,7 +125,13 @@ def fetch(symbol: str) -> pd.DataFrame | None:
             raw.index = raw.index.tz_localize("UTC")
         raw.index = raw.index.tz_convert(IST)
         df = raw[["open", "high", "low", "close", "volume"]].copy()
-        df = df.iloc[:-1]
+        # filter to NSE market hours only: 9:15 - 15:45 IST
+        df = df.between_time("09:15", "15:45")
+        # drop last candle only if market is currently open
+        now_ist = datetime.now(IST)
+        market_open = now_ist.weekday() < 5 and time(9, 15) <= now_ist.time() <= time(15, 45)
+        if market_open and len(df) > 0:
+            df = df.iloc[:-1]
         df.dropna(subset=["open", "high", "low", "close"], inplace=True)
         return df
     except Exception as e:
