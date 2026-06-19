@@ -1,6 +1,6 @@
 # 📊 Mid Cap Technical Indicators
 
-**Last updated:** 2026-06-19 09:31:43 IST
+**Last updated:** 2026-06-19 09:46:26 IST
 
 ---
 
@@ -8,11 +8,11 @@
 
 | Symbol | Datetime | Close | Volume | RSI | EMA20 | MACD | VWAP | Signal |
 |--------|----------|------:|-------:|----:|------:|-----:|-----:|:------:|
-| Nifty 50 | 2026-06-19 09:30:00 | 23942.65 | 0 | 19.47 | 24003.96 | -48.7202 | — | 🔴 SELL |
-| BankNifty | 2026-06-19 09:30:00 | 57614.05 | 0 | 26.05 | 57736.14 | -78.1690 | — | 🔴 SELL |
-| Sensex | 2026-06-19 09:15:00 | 76655.62 | 0 | 8.39 | 77329.61 | -41.9272 | — | 🔴 SELL |
-| MidcapNifty | 2026-06-19 09:30:00 | 17618.35 | 0 | 34.05 | 17644.05 | -19.1732 | — | 🟡 HOLD |
-| FinNifty | 2026-06-19 09:30:00 | 26406.30 | 0 | 21.91 | 26463.87 | -39.1424 | — | 🔴 SELL |
+| Nifty 50 | 2026-06-19 09:45:00 | 23964.25 | 0 | 39.36 | 23974.78 | -15.2936 | — | 🟡 HOLD |
+| BankNifty | 2026-06-19 09:45:00 | 57592.20 | 0 | 34.46 | 57649.29 | -40.4274 | — | 🟡 HOLD |
+| Sensex | 2026-06-19 09:30:00 | 76595.50 | 0 | 17.50 | 76808.00 | -172.4463 | — | 🔴 SELL |
+| MidcapNifty | 2026-06-19 09:45:00 | 17650.55 | 0 | 51.79 | 17646.04 | 0.3622 | — | 🟢 BUY |
+| FinNifty | 2026-06-19 09:45:00 | 26443.15 | 0 | 48.46 | 26439.29 | -10.1740 | — | 🟡 HOLD |
 
 ---
 
@@ -20,533 +20,77 @@
 
 | Symbol | Datetime | Close | Volume | RSI | EMA20 | MACD | VWAP | Signal |
 |--------|----------|------:|-------:|----:|------:|-----:|-----:|:------:|
-| ALKEM_NS | 2026-06-19 09:30:00 | 5358.00 | 7 | 36.37 | 5366.23 | -2.9744 | 5365.97 | 🔴 SELL |
-| APLAPOLLO_NS | 2026-06-19 09:30:00 | 1855.60 | 491 | 47.30 | 1856.18 | -0.4021 | 1854.35 | 🟡 HOLD |
-| ASHOKLEY_NS | 2026-06-19 09:30:00 | 157.59 | 97,261 | 40.62 | 157.83 | -0.1778 | 157.73 | 🟡 HOLD |
-| AUBANK_NS | 2026-06-19 09:30:00 | 1025.15 | 1,570 | 53.67 | 1024.34 | 0.0742 | 1024.36 | 🟢 BUY |
-| AUROPHARMA_NS | 2026-06-19 09:30:00 | 1459.50 | 4,321 | 54.13 | 1459.47 | 3.6754 | 1464.64 | 🟡 HOLD |
-| BHARATFORG_NS | 2026-06-19 09:30:00 | 2030.10 | 2,967 | 53.56 | 2029.43 | 2.8879 | 2031.63 | 🟡 HOLD |
-| BHEL_NS | 2026-06-19 09:30:00 | 409.10 | 81,597 | 58.02 | 408.55 | 0.9217 | 408.92 | 🟢 BUY |
-| BSE_NS | 2026-06-19 09:30:00 | 4029.00 | 8,978 | 59.08 | 4020.68 | 3.9328 | 4019.87 | 🟡 HOLD |
-| COFORGE_NS | 2026-06-19 09:30:00 | 1416.10 | 32,672 | 28.99 | 1430.06 | -14.0876 | 1417.62 | 🟡 HOLD |
-| COLPAL_NS | 2026-06-19 09:30:00 | 2017.50 | 1,111 | 44.04 | 2018.84 | -2.0127 | 2016.75 | 🟡 HOLD |
-| DABUR_NS | 2026-06-19 09:30:00 | 425.40 | 2,308 | 38.12 | 426.26 | -0.5694 | 425.53 | 🟡 HOLD |
-| DIXON_NS | 2026-06-19 09:30:00 | 12391.00 | 10,047 | 25.54 | 12491.90 | -55.2396 | 12450.76 | 🔴 SELL |
-| FEDERALBNK_NS | 2026-06-19 09:30:00 | 320.95 | 4,060 | 48.47 | 321.05 | 0.0194 | 321.45 | 🟡 HOLD |
-| FORTIS_NS | 2026-06-19 09:30:00 | 956.65 | 1,921 | 43.79 | 957.93 | -0.3681 | 956.74 | 🔴 SELL |
-| GMRAIRPORT_NS | 2026-06-19 09:30:00 | 109.42 | 39,300 | 32.34 | 109.73 | -0.2274 | 109.54 | 🟡 HOLD |
-| GODREJPROP_NS | 2026-06-19 09:30:00 | 1787.50 | 1,472 | 33.08 | 1794.53 | -4.6817 | 1790.49 | 🔴 SELL |
-| HAVELLS_NS | 2026-06-19 09:30:00 | 1185.70 | 1,699 | 30.53 | 1189.63 | -1.3248 | 1188.60 | 🔴 SELL |
-| HEROMOTOCO_NS | 2026-06-19 09:30:00 | 5006.40 | 1,128 | 43.82 | 5010.87 | -1.7994 | 5005.80 | 🟡 HOLD |
-| HINDPETRO_NS | 2026-06-19 09:30:00 | 397.65 | 32,207 | 34.77 | 399.10 | -0.7277 | 398.65 | 🔴 SELL |
-| ICICIBANK_NS | 2026-06-19 09:30:00 | 1340.30 | 97,248 | 41.56 | 1342.17 | -0.5261 | 1342.58 | 🟡 HOLD |
+| ALKEM_NS | 2026-06-19 09:44:00 | 5355.50 | 25 | 39.60 | 5359.00 | -2.9190 | 5358.10 | 🟡 HOLD |
+| APLAPOLLO_NS | 2026-06-19 09:45:00 | 1856.30 | 102 | 49.52 | 1856.41 | 0.0391 | 1856.49 | 🟡 HOLD |
+| ASHOKLEY_NS | 2026-06-19 09:45:00 | 157.56 | 5,678 | 47.63 | 157.60 | -0.0676 | 157.39 | 🟡 HOLD |
+| AUBANK_NS | 2026-06-19 09:45:00 | 1026.90 | 1,047 | 57.53 | 1025.92 | 0.5056 | 1026.20 | 🟡 HOLD |
+| AUROPHARMA_NS | 2026-06-19 09:45:00 | 1457.20 | 4,048 | 47.95 | 1458.66 | 0.5772 | 1458.89 | 🔴 SELL |
+| BHARATFORG_NS | 2026-06-19 09:45:00 | 2044.00 | 16,333 | 52.27 | 2045.03 | 5.8217 | 2050.28 | 🟡 HOLD |
+| BHEL_NS | 2026-06-19 09:45:00 | 411.65 | 30,034 | 63.75 | 410.63 | 1.0196 | 410.72 | 🟢 BUY |
+| BSE_NS | 2026-06-19 09:45:00 | 4054.00 | 13,314 | 68.20 | 4037.94 | 7.8908 | 4040.21 | 🟢 BUY |
+| COFORGE_NS | 2026-06-19 09:45:00 | 1438.50 | 51,000 | 57.90 | 1432.01 | -0.0308 | 1431.54 | 🟢 BUY |
+| COLPAL_NS | 2026-06-19 09:45:00 | 2018.10 | 1,118 | 50.45 | 2017.50 | -0.5780 | 2016.51 | 🟡 HOLD |
+| DABUR_NS | 2026-06-19 09:45:00 | 425.25 | 475 | 43.88 | 425.42 | -0.3390 | 425.07 | 🟡 HOLD |
+| DIXON_NS | 2026-06-19 09:45:00 | 12448.00 | 1,542 | 49.24 | 12438.14 | -17.3769 | 12414.10 | 🟡 HOLD |
+| FEDERALBNK_NS | 2026-06-19 09:45:00 | 320.65 | 8,993 | 41.62 | 321.02 | -0.0281 | 321.04 | 🟡 HOLD |
+| FORTIS_NS | 2026-06-19 09:45:00 | 955.80 | 3,296 | 45.95 | 956.42 | -0.6121 | 956.17 | 🔴 SELL |
+| GMRAIRPORT_NS | 2026-06-19 09:45:00 | 109.74 | 17,033 | 53.67 | 109.62 | -0.0478 | 109.54 | 🟡 HOLD |
+| GODREJPROP_NS | 2026-06-19 09:45:00 | 1788.00 | 261 | 43.07 | 1789.60 | -2.2703 | 1788.16 | 🟡 HOLD |
+| HAVELLS_NS | 2026-06-19 09:45:00 | 1184.60 | 605 | 40.31 | 1185.43 | -1.5227 | 1184.29 | 🟡 HOLD |
+| HEROMOTOCO_NS | 2026-06-19 09:45:00 | 5008.10 | 275 | 50.80 | 5006.95 | -0.8091 | 5004.72 | 🟡 HOLD |
+| HINDPETRO_NS | 2026-06-19 09:45:00 | 397.65 | 3,509 | 39.17 | 398.18 | -0.4097 | 397.93 | 🟡 HOLD |
+| ICICIBANK_NS | 2026-06-19 09:45:00 | 1345.20 | 11,738 | 57.82 | 1344.12 | 0.7734 | 1344.54 | 🟡 HOLD |
 
 ---
 
 ## ALKEM_NS
 
-**Date:** `2026-06-19 09:30:00` &nbsp;|&nbsp; **Close:** `5358.00` &nbsp;|&nbsp; **Signal:** 🔴 **SELL**
+**Date:** `2026-06-19 09:44:00` &nbsp;|&nbsp; **Close:** `5355.50` &nbsp;|&nbsp; **Signal:** 🟡 **HOLD**
 
 ### 📈 Trend Indicators
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| SMA 5 | 5361.90 | SMA 10 | 5363.10 | SMA 20 | 5368.05 |
-| SMA 50 | 5371.09 | SMA 100 | 5358.09 | SMA 200 | 5349.82 |
-| EMA 5 | 5360.78 | EMA 10 | 5363.23 | EMA 20 | 5366.23 |
-| EMA 50 | 5366.14 | EMA 100 | 5360.95 | EMA 200 | 5355.70 |
-| WMA 10 | 5362.03 | WMA 20 | 5365.15 | MACD | -2.9744 |
-| MACD Signal | -1.6890 | MACD Diff | -1.2854 | ADX | 27.80 |
-| ADX+ | 19.57 | ADX- | 34.96 | Aroon Up | 36.00 |
-| Aroon Down | 40.00 | Aroon Ind | -4.00 | CCI | -139.48 |
-| DPO | 3.95 | Mass Index | 24.35 | Ichimoku A | 5364.75 |
-| Ichimoku B | 5365.75 | Ichimoku Base | 5364.50 | Ichimoku Conv | 5365.00 |
-| PSAR | 5374.39 | STC | 0.00 | TRIX | -0.0049 |
-| Vortex + | 0.75 | Vortex - | 1.09 |  |  |
+| SMA 5 | 5357.00 | SMA 10 | 5356.40 | SMA 20 | 5358.40 |
+| SMA 50 | 5366.20 | SMA 100 | 5360.02 | SMA 200 | 5350.73 |
+| EMA 5 | 5356.25 | EMA 10 | 5356.91 | EMA 20 | 5359.00 |
+| EMA 50 | 5362.10 | EMA 100 | 5359.93 | EMA 200 | 5355.84 |
+| WMA 10 | 5356.47 | WMA 20 | 5357.09 | MACD | -2.9190 |
+| MACD Signal | -3.1557 | MACD Diff | 0.2367 | ADX | 17.97 |
+| ADX+ | 27.55 | ADX- | 26.05 | Aroon Up | 0.00 |
+| Aroon Down | 56.00 | Aroon Ind | -56.00 | CCI | -82.50 |
+| DPO | -2.90 | Mass Index | 20.33 | Ichimoku A | 5361.25 |
+| Ichimoku B | 5366.00 | Ichimoku Base | 5365.00 | Ichimoku Conv | 5357.50 |
+| PSAR | 5367.15 | STC | 25.00 | TRIX | -0.0093 |
+| Vortex + | 0.82 | Vortex - | 0.94 |  |  |
 
 ### 🌡️ Volatility Indicators
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| KC Upper | 5373.77 | KC Middle | 5367.67 | KC Lower | 5361.57 |
-| DC Upper | 5384.00 | DC Middle | 5364.50 | DC Lower | 5345.00 |
-| ATR | 5.42 | BB Upper | 5379.56 | BB Middle | 5368.05 |
-| BB Lower | 5356.54 | BB %B | 0.0636 | BB Width | 0.4290 |
-| Ulcer Index | 0.23 |  |  |  |  |
+| KC Upper | 5360.93 | KC Middle | 5358.58 | KC Lower | 5356.23 |
+| DC Upper | 5372.50 | DC Middle | 5364.00 | DC Lower | 5355.50 |
+| ATR | 3.36 | BB Upper | 5365.02 | BB Middle | 5358.40 |
+| BB Lower | 5351.78 | BB %B | 0.2811 | BB Width | 0.2472 |
+| Ulcer Index | 0.19 |  |  |  |  |
 
 ### ⚡ Momentum Indicators
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| RSI 7 | 27.54 | RSI 14 | 36.37 | RSI 21 | 41.51 |
-| Stoch %K | 2.94 | Stoch %D | 20.08 | ROC | -0.2885 |
-| Williams %R | -97.06 | Awe. Osc. | -6.9059 | KAMA | 5367.28 |
-| PPO | -0.0554 | PVO | -57.2589 | TSI | -15.5624 |
-| Ult. Osc. | 42.60 |  |  |  |  |
+| RSI 7 | 38.33 | RSI 14 | 39.60 | RSI 21 | 42.13 |
+| Stoch %K | 0.00 | Stoch %D | 3.33 | ROC | -0.0280 |
+| Williams %R | -100.00 | Awe. Osc. | -6.3750 | KAMA | 5360.71 |
+| PPO | -0.0545 | PVO | -36.7077 | TSI | -20.1790 |
+| Ult. Osc. | 38.17 |  |  |  |  |
 
 ### 📦 Volume Indicators
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 37063 | CMF | -0.4531 | Acc/Dist | 22367 |
-| MFI | 45.67 | Force Index | -46 | EOM | -12500000.000000 |
-| VPT | 23 | NVI | 1014.70 | VWAP | 5365.97 |
-
-### 🕯️ Price Action
-
-| Price Chg % |
-|------------:|
-| -0.0093 |
-
----
-
-## APLAPOLLO_NS
-
-**Date:** `2026-06-19 09:30:00` &nbsp;|&nbsp; **Close:** `1855.60` &nbsp;|&nbsp; **Signal:** 🟡 **HOLD**
-
-### 📈 Trend Indicators
-
-| Indicator | Value | Indicator | Value | Indicator | Value |
-|-----------|------:|-----------|------:|-----------|------:|
-| SMA 5 | 1857.48 | SMA 10 | 1855.72 | SMA 20 | 1855.35 |
-| SMA 50 | 1858.39 | SMA 100 | 1855.03 | SMA 200 | 1854.93 |
-| EMA 5 | 1856.46 | EMA 10 | 1856.06 | EMA 20 | 1856.18 |
-| EMA 50 | 1856.60 | EMA 100 | 1855.95 | EMA 200 | 1855.08 |
-| WMA 10 | 1856.39 | WMA 20 | 1855.24 | MACD | -0.4021 |
-| MACD Signal | -0.8445 | MACD Diff | 0.4425 | ADX | 28.71 |
-| ADX+ | 28.84 | ADX- | 28.41 | Aroon Up | 36.00 |
-| Aroon Down | 44.00 | Aroon Ind | -8.00 | CCI | 10.35 |
-| DPO | -3.45 | Mass Index | 29.66 | Ichimoku A | 1855.83 |
-| Ichimoku B | 1855.10 | Ichimoku Base | 1855.10 | Ichimoku Conv | 1856.55 |
-| PSAR | 1847.42 | STC | 96.88 | TRIX | -0.0081 |
-| Vortex + | 1.10 | Vortex - | 0.86 |  |  |
-
-### 🌡️ Volatility Indicators
-
-| Indicator | Value | Indicator | Value | Indicator | Value |
-|-----------|------:|-----------|------:|-----------|------:|
-| KC Upper | 1857.51 | KC Middle | 1855.28 | KC Lower | 1853.05 |
-| DC Upper | 1863.90 | DC Middle | 1855.10 | DC Lower | 1846.30 |
-| ATR | 2.17 | BB Upper | 1862.62 | BB Middle | 1855.35 |
-| BB Lower | 1848.09 | BB %B | 0.5169 | BB Width | 0.7834 |
-| Ulcer Index | 0.35 |  |  |  |  |
-
-### ⚡ Momentum Indicators
-
-| Indicator | Value | Indicator | Value | Indicator | Value |
-|-----------|------:|-----------|------:|-----------|------:|
-| RSI 7 | 47.45 | RSI 14 | 47.30 | RSI 21 | 47.58 |
-| Stoch %K | 58.54 | Stoch %D | 70.21 | ROC | 0.2160 |
-| Williams %R | -41.46 | Awe. Osc. | 0.2650 | KAMA | 1856.02 |
-| PPO | -0.0217 | PVO | -35.9100 | TSI | -5.5628 |
-| Ult. Osc. | 58.37 |  |  |  |  |
-
-### 📦 Volume Indicators
-
-| Indicator | Value | Indicator | Value | Indicator | Value |
-|-----------|------:|-----------|------:|-----------|------:|
-| OBV | -449057 | CMF | -0.1324 | Acc/Dist | -231010 |
-| MFI | 69.50 | Force Index | 163 | EOM | -329934.424757 |
-| VPT | -588 | NVI | 965.18 | VWAP | 1854.35 |
-
-### 🕯️ Price Action
-
-| Price Chg % |
-|------------:|
-| -0.0700 |
-
----
-
-## ASHOKLEY_NS
-
-**Date:** `2026-06-19 09:30:00` &nbsp;|&nbsp; **Close:** `157.59` &nbsp;|&nbsp; **Signal:** 🟡 **HOLD**
-
-### 📈 Trend Indicators
-
-| Indicator | Value | Indicator | Value | Indicator | Value |
-|-----------|------:|-----------|------:|-----------|------:|
-| SMA 5 | 157.67 | SMA 10 | 157.64 | SMA 20 | 157.84 |
-| SMA 50 | 158.24 | SMA 100 | 158.10 | SMA 200 | 157.91 |
-| EMA 5 | 157.65 | EMA 10 | 157.70 | EMA 20 | 157.83 |
-| EMA 50 | 158.04 | EMA 100 | 158.05 | EMA 200 | 158.00 |
-| WMA 10 | 157.65 | WMA 20 | 157.72 | MACD | -0.1778 |
-| MACD Signal | -0.1807 | MACD Diff | 0.0029 | ADX | 37.73 |
-| ADX+ | 12.09 | ADX- | 26.42 | Aroon Up | 0.00 |
-| Aroon Down | 48.00 | Aroon Ind | -48.00 | CCI | -60.86 |
-| DPO | 0.00 | Mass Index | 28.65 | Ichimoku A | 157.79 |
-| Ichimoku B | 158.07 | Ichimoku Base | 157.93 | Ichimoku Conv | 157.65 |
-| PSAR | 157.47 | STC | 0.00 | TRIX | -0.0174 |
-| Vortex + | 0.97 | Vortex - | 0.98 |  |  |
-
-### 🌡️ Volatility Indicators
-
-| Indicator | Value | Indicator | Value | Indicator | Value |
-|-----------|------:|-----------|------:|-----------|------:|
-| KC Upper | 158.06 | KC Middle | 157.83 | KC Lower | 157.59 |
-| DC Upper | 158.43 | DC Middle | 157.86 | DC Lower | 157.30 |
-| ATR | 0.21 | BB Upper | 158.43 | BB Middle | 157.84 |
-| BB Lower | 157.25 | BB %B | 0.2900 | BB Width | 0.7453 |
-| Ulcer Index | 0.41 |  |  |  |  |
-
-### ⚡ Momentum Indicators
-
-| Indicator | Value | Indicator | Value | Indicator | Value |
-|-----------|------:|-----------|------:|-----------|------:|
-| RSI 7 | 40.35 | RSI 14 | 40.62 | RSI 21 | 41.46 |
-| Stoch %K | 34.12 | Stoch %D | 44.31 | ROC | -0.3352 |
-| Williams %R | -65.88 | Awe. Osc. | -0.4047 | KAMA | 157.91 |
-| PPO | -0.1126 | PVO | -13.8781 | TSI | -18.5739 |
-| Ult. Osc. | 48.12 |  |  |  |  |
-
-### 📦 Volume Indicators
-
-| Indicator | Value | Indicator | Value | Indicator | Value |
-|-----------|------:|-----------|------:|-----------|------:|
-| OBV | 2337691 | CMF | -0.0427 | Acc/Dist | 8611507 |
-| MFI | 46.85 | Force Index | -1874 | EOM | -3.597670 |
-| VPT | -844 | NVI | 976.09 | VWAP | 157.73 |
-
-### 🕯️ Price Action
-
-| Price Chg % |
-|------------:|
-| -0.0824 |
-
----
-
-## AUBANK_NS
-
-**Date:** `2026-06-19 09:30:00` &nbsp;|&nbsp; **Close:** `1025.15` &nbsp;|&nbsp; **Signal:** 🟢 **BUY**
-
-### 📈 Trend Indicators
-
-| Indicator | Value | Indicator | Value | Indicator | Value |
-|-----------|------:|-----------|------:|-----------|------:|
-| SMA 5 | 1025.78 | SMA 10 | 1023.63 | SMA 20 | 1024.00 |
-| SMA 50 | 1024.77 | SMA 100 | 1024.90 | SMA 200 | 1024.62 |
-| EMA 5 | 1025.16 | EMA 10 | 1024.57 | EMA 20 | 1024.34 |
-| EMA 50 | 1024.58 | EMA 100 | 1024.66 | EMA 200 | 1024.04 |
-| WMA 10 | 1024.69 | WMA 20 | 1023.96 | MACD | 0.0742 |
-| MACD Signal | -0.3131 | MACD Diff | 0.3873 | ADX | 27.46 |
-| ADX+ | 26.16 | ADX- | 19.81 | Aroon Up | 24.00 |
-| Aroon Down | 68.00 | Aroon Ind | -44.00 | CCI | 59.97 |
-| DPO | -1.00 | Mass Index | 27.41 | Ichimoku A | 1023.62 |
-| Ichimoku B | 1023.65 | Ichimoku Base | 1023.65 | Ichimoku Conv | 1023.60 |
-| PSAR | 1021.48 | STC | 96.97 | TRIX | -0.0053 |
-| Vortex + | 1.12 | Vortex - | 0.88 |  |  |
-
-### 🌡️ Volatility Indicators
-
-| Indicator | Value | Indicator | Value | Indicator | Value |
-|-----------|------:|-----------|------:|-----------|------:|
-| KC Upper | 1025.20 | KC Middle | 1023.92 | KC Lower | 1022.64 |
-| DC Upper | 1026.80 | DC Middle | 1023.65 | DC Lower | 1020.50 |
-| ATR | 1.24 | BB Upper | 1027.75 | BB Middle | 1024.00 |
-| BB Lower | 1020.26 | BB %B | 0.6530 | BB Width | 0.7309 |
-| Ulcer Index | 0.33 |  |  |  |  |
-
-### ⚡ Momentum Indicators
-
-| Indicator | Value | Indicator | Value | Indicator | Value |
-|-----------|------:|-----------|------:|-----------|------:|
-| RSI 7 | 56.80 | RSI 14 | 53.67 | RSI 21 | 52.24 |
-| Stoch %K | 75.00 | Stoch %D | 83.06 | ROC | 0.1416 |
-| Williams %R | -25.00 | Awe. Osc. | 0.9825 | KAMA | 1023.42 |
-| PPO | 0.0072 | PVO | -19.1180 | TSI | 1.0351 |
-| Ult. Osc. | 69.20 |  |  |  |  |
-
-### 📦 Volume Indicators
-
-| Indicator | Value | Indicator | Value | Indicator | Value |
-|-----------|------:|-----------|------:|-----------|------:|
-| OBV | 120344 | CMF | 0.0016 | Acc/Dist | 504752 |
-| MFI | 71.53 | Force Index | 2074 | EOM | -7641.135128 |
-| VPT | 34 | NVI | 952.11 | VWAP | 1024.36 |
-
-### 🕯️ Price Action
-
-| Price Chg % |
-|------------:|
-| -0.0682 |
-
----
-
-## AUROPHARMA_NS
-
-**Date:** `2026-06-19 09:30:00` &nbsp;|&nbsp; **Close:** `1459.50` &nbsp;|&nbsp; **Signal:** 🟡 **HOLD**
-
-### 📈 Trend Indicators
-
-| Indicator | Value | Indicator | Value | Indicator | Value |
-|-----------|------:|-----------|------:|-----------|------:|
-| SMA 5 | 1461.92 | SMA 10 | 1463.18 | SMA 20 | 1460.18 |
-| SMA 50 | 1449.94 | SMA 100 | 1443.50 | SMA 200 | 1438.36 |
-| EMA 5 | 1460.90 | EMA 10 | 1461.68 | EMA 20 | 1459.47 |
-| EMA 50 | 1452.38 | EMA 100 | 1446.30 | EMA 200 | 1440.38 |
-| WMA 10 | 1462.24 | WMA 20 | 1462.57 | MACD | 3.6754 |
-| MACD Signal | 4.8369 | MACD Diff | -1.1615 | ADX | 45.81 |
-| ADX+ | 32.00 | ADX- | 28.32 | Aroon Up | 52.00 |
-| Aroon Down | 36.00 | Aroon Ind | 16.00 | CCI | -9.47 |
-| DPO | 6.32 | Mass Index | 29.89 | Ichimoku A | 1459.77 |
-| Ichimoku B | 1453.25 | Ichimoku Base | 1457.35 | Ichimoku Conv | 1462.20 |
-| PSAR | 1469.27 | STC | 12.49 | TRIX | 0.0504 |
-| Vortex + | 1.01 | Vortex - | 1.05 |  |  |
-
-### 🌡️ Volatility Indicators
-
-| Indicator | Value | Indicator | Value | Indicator | Value |
-|-----------|------:|-----------|------:|-----------|------:|
-| KC Upper | 1462.77 | KC Middle | 1459.97 | KC Lower | 1457.18 |
-| DC Upper | 1470.00 | DC Middle | 1457.35 | DC Lower | 1444.70 |
-| ATR | 2.62 | BB Upper | 1475.76 | BB Middle | 1460.18 |
-| BB Lower | 1444.61 | BB %B | 0.4780 | BB Width | 2.1326 |
-| Ulcer Index | 0.39 |  |  |  |  |
-
-### ⚡ Momentum Indicators
-
-| Indicator | Value | Indicator | Value | Indicator | Value |
-|-----------|------:|-----------|------:|-----------|------:|
-| RSI 7 | 43.07 | RSI 14 | 54.13 | RSI 21 | 58.23 |
-| Stoch %K | 17.97 | Stoch %D | 24.01 | ROC | -0.6602 |
-| Williams %R | -82.03 | Awe. Osc. | 8.4559 | KAMA | 1461.80 |
-| PPO | 0.2521 | PVO | 1.7973 | TSI | 31.7272 |
-| Ult. Osc. | 49.60 |  |  |  |  |
-
-### 📦 Volume Indicators
-
-| Indicator | Value | Indicator | Value | Indicator | Value |
-|-----------|------:|-----------|------:|-----------|------:|
-| OBV | 264862 | CMF | 0.2104 | Acc/Dist | -175256 |
-| MFI | 53.20 | Force Index | -7242 | EOM | 16547.349820 |
-| VPT | -1861 | NVI | 1023.27 | VWAP | 1464.64 |
-
-### 🕯️ Price Action
-
-| Price Chg % |
-|------------:|
-| 0.1235 |
-
----
-
-## BHARATFORG_NS
-
-**Date:** `2026-06-19 09:30:00` &nbsp;|&nbsp; **Close:** `2030.10` &nbsp;|&nbsp; **Signal:** 🟡 **HOLD**
-
-### 📈 Trend Indicators
-
-| Indicator | Value | Indicator | Value | Indicator | Value |
-|-----------|------:|-----------|------:|-----------|------:|
-| SMA 5 | 2032.08 | SMA 10 | 2032.24 | SMA 20 | 2029.29 |
-| SMA 50 | 2023.15 | SMA 100 | 2016.73 | SMA 200 | 2016.90 |
-| EMA 5 | 2031.68 | EMA 10 | 2031.42 | EMA 20 | 2029.43 |
-| EMA 50 | 2024.24 | EMA 100 | 2020.32 | EMA 200 | 2019.39 |
-| WMA 10 | 2032.04 | WMA 20 | 2031.36 | MACD | 2.8879 |
-| MACD Signal | 3.2200 | MACD Diff | -0.3321 | ADX | 28.78 |
-| ADX+ | 23.79 | ADX- | 17.57 | Aroon Up | 40.00 |
-| Aroon Down | 24.00 | Aroon Ind | 16.00 | CCI | 28.52 |
-| DPO | 3.91 | Mass Index | 26.82 | Ichimoku A | 2028.67 |
-| Ichimoku B | 2022.50 | Ichimoku Base | 2025.10 | Ichimoku Conv | 2032.25 |
-| PSAR | 2020.08 | STC | 49.80 | TRIX | 0.0233 |
-| Vortex + | 1.10 | Vortex - | 1.04 |  |  |
-
-### 🌡️ Volatility Indicators
-
-| Indicator | Value | Indicator | Value | Indicator | Value |
-|-----------|------:|-----------|------:|-----------|------:|
-| KC Upper | 2032.89 | KC Middle | 2029.02 | KC Lower | 2025.15 |
-| DC Upper | 2035.00 | DC Middle | 2025.10 | DC Lower | 2015.20 |
-| ATR | 3.17 | BB Upper | 2040.46 | BB Middle | 2029.29 |
-| BB Lower | 2018.11 | BB %B | 0.5365 | BB Width | 1.1013 |
-| Ulcer Index | 0.16 |  |  |  |  |
-
-### ⚡ Momentum Indicators
-
-| Indicator | Value | Indicator | Value | Indicator | Value |
-|-----------|------:|-----------|------:|-----------|------:|
-| RSI 7 | 46.66 | RSI 14 | 53.56 | RSI 21 | 55.29 |
-| Stoch %K | 38.75 | Stoch %D | 64.07 | ROC | 0.1035 |
-| Williams %R | -61.25 | Awe. Osc. | 6.4609 | KAMA | 2026.95 |
-| PPO | 0.1424 | PVO | -8.9130 | TSI | 16.3199 |
-| Ult. Osc. | 47.72 |  |  |  |  |
-
-### 📦 Volume Indicators
-
-| Indicator | Value | Indicator | Value | Indicator | Value |
-|-----------|------:|-----------|------:|-----------|------:|
-| OBV | 169411 | CMF | 0.0116 | Acc/Dist | 175120 |
-| MFI | 60.20 | Force Index | -4246 | EOM | -96901.281940 |
-| VPT | 42 | NVI | 1052.19 | VWAP | 2031.63 |
-
-### 🕯️ Price Action
-
-| Price Chg % |
-|------------:|
-| -0.1181 |
-
----
-
-## BHEL_NS
-
-**Date:** `2026-06-19 09:30:00` &nbsp;|&nbsp; **Close:** `409.10` &nbsp;|&nbsp; **Signal:** 🟢 **BUY**
-
-### 📈 Trend Indicators
-
-| Indicator | Value | Indicator | Value | Indicator | Value |
-|-----------|------:|-----------|------:|-----------|------:|
-| SMA 5 | 409.59 | SMA 10 | 409.66 | SMA 20 | 408.18 |
-| SMA 50 | 406.67 | SMA 100 | 406.65 | SMA 200 | 405.96 |
-| EMA 5 | 409.43 | EMA 10 | 409.26 | EMA 20 | 408.55 |
-| EMA 50 | 407.39 | EMA 100 | 406.66 | EMA 200 | 405.02 |
-| WMA 10 | 409.62 | WMA 20 | 409.02 | MACD | 0.9217 |
-| MACD Signal | 0.9067 | MACD Diff | 0.0150 | ADX | 26.75 |
-| ADX+ | 24.74 | ADX- | 18.15 | Aroon Up | 80.00 |
-| Aroon Down | 40.00 | Aroon Ind | 40.00 | CCI | 45.90 |
-| DPO | -0.78 | Mass Index | 29.11 | Ichimoku A | 408.60 |
-| Ichimoku B | 407.35 | Ichimoku Base | 407.35 | Ichimoku Conv | 409.85 |
-| PSAR | 408.11 | STC | 95.76 | TRIX | 0.0327 |
-| Vortex + | 1.26 | Vortex - | 0.78 |  |  |
-
-### 🌡️ Volatility Indicators
-
-| Indicator | Value | Indicator | Value | Indicator | Value |
-|-----------|------:|-----------|------:|-----------|------:|
-| KC Upper | 409.09 | KC Middle | 408.09 | KC Lower | 407.09 |
-| DC Upper | 410.70 | DC Middle | 407.35 | DC Lower | 404.00 |
-| ATR | 0.81 | BB Upper | 411.70 | BB Middle | 408.18 |
-| BB Lower | 404.66 | BB %B | 0.6305 | BB Width | 1.7268 |
-| Ulcer Index | 0.15 |  |  |  |  |
-
-### ⚡ Momentum Indicators
-
-| Indicator | Value | Indicator | Value | Indicator | Value |
-|-----------|------:|-----------|------:|-----------|------:|
-| RSI 7 | 51.02 | RSI 14 | 58.02 | RSI 21 | 58.82 |
-| Stoch %K | 68.32 | Stoch %D | 76.43 | ROC | 0.1469 |
-| Williams %R | -31.68 | Awe. Osc. | 2.2816 | KAMA | 408.86 |
-| PPO | 0.2258 | PVO | -1.5428 | TSI | 28.4724 |
-| Ult. Osc. | 61.53 |  |  |  |  |
-
-### 📦 Volume Indicators
-
-| Indicator | Value | Indicator | Value | Indicator | Value |
-|-----------|------:|-----------|------:|-----------|------:|
-| OBV | 5484476 | CMF | 0.1991 | Acc/Dist | 1879816 |
-| MFI | 67.40 | Force Index | 13980 | EOM | -41.352838 |
-| VPT | 10694 | NVI | 1028.38 | VWAP | 408.92 |
-
-### 🕯️ Price Action
-
-| Price Chg % |
-|------------:|
-| -0.0611 |
-
----
-
-## BSE_NS
-
-**Date:** `2026-06-19 09:30:00` &nbsp;|&nbsp; **Close:** `4029.00` &nbsp;|&nbsp; **Signal:** 🟡 **HOLD**
-
-### 📈 Trend Indicators
-
-| Indicator | Value | Indicator | Value | Indicator | Value |
-|-----------|------:|-----------|------:|-----------|------:|
-| SMA 5 | 4028.00 | SMA 10 | 4023.73 | SMA 20 | 4018.06 |
-| SMA 50 | 4016.66 | SMA 100 | 4016.67 | SMA 200 | 4019.72 |
-| EMA 5 | 4027.73 | EMA 10 | 4024.47 | EMA 20 | 4020.68 |
-| EMA 50 | 4017.72 | EMA 100 | 4018.02 | EMA 200 | 4020.56 |
-| WMA 10 | 4026.02 | WMA 20 | 4021.64 | MACD | 3.9328 |
-| MACD Signal | 2.2626 | MACD Diff | 1.6702 | ADX | 14.23 |
-| ADX+ | 27.76 | ADX- | 21.32 | Aroon Up | 96.00 |
-| Aroon Down | 40.00 | Aroon Ind | 56.00 | CCI | 124.86 |
-| DPO | 3.34 | Mass Index | 28.04 | Ichimoku A | 4014.70 |
-| Ichimoku B | 4005.50 | Ichimoku Base | 4005.50 | Ichimoku Conv | 4023.90 |
-| PSAR | 3999.85 | STC | 99.99 | TRIX | 0.0075 |
-| Vortex + | 1.32 | Vortex - | 0.70 |  |  |
-
-### 🌡️ Volatility Indicators
-
-| Indicator | Value | Indicator | Value | Indicator | Value |
-|-----------|------:|-----------|------:|-----------|------:|
-| KC Upper | 4025.24 | KC Middle | 4017.07 | KC Lower | 4008.90 |
-| DC Upper | 4032.00 | DC Middle | 4005.50 | DC Lower | 3979.00 |
-| ATR | 6.82 | BB Upper | 4035.84 | BB Middle | 4018.06 |
-| BB Lower | 4000.27 | BB %B | 0.8077 | BB Width | 0.8854 |
-| Ulcer Index | 0.07 |  |  |  |  |
-
-### ⚡ Momentum Indicators
-
-| Indicator | Value | Indicator | Value | Indicator | Value |
-|-----------|------:|-----------|------:|-----------|------:|
-| RSI 7 | 61.86 | RSI 14 | 59.08 | RSI 21 | 57.34 |
-| Stoch %K | 91.18 | Stoch %D | 97.06 | ROC | 0.2239 |
-| Williams %R | -8.82 | Awe. Osc. | 10.8268 | KAMA | 4015.85 |
-| PPO | 0.0978 | PVO | -10.6125 | TSI | 13.6788 |
-| Ult. Osc. | 71.09 |  |  |  |  |
-
-### 📦 Volume Indicators
-
-| Indicator | Value | Indicator | Value | Indicator | Value |
-|-----------|------:|-----------|------:|-----------|------:|
-| OBV | 432195 | CMF | 0.3219 | Acc/Dist | 868621 |
-| MFI | 75.39 | Force Index | 29854 | EOM | 35644.857569 |
-| VPT | -2102 | NVI | 1012.34 | VWAP | 4019.87 |
-
-### 🕯️ Price Action
-
-| Price Chg % |
-|------------:|
-| -0.0744 |
-
----
-
-## COFORGE_NS
-
-**Date:** `2026-06-19 09:30:00` &nbsp;|&nbsp; **Close:** `1416.10` &nbsp;|&nbsp; **Signal:** 🟡 **HOLD**
-
-### 📈 Trend Indicators
-
-| Indicator | Value | Indicator | Value | Indicator | Value |
-|-----------|------:|-----------|------:|-----------|------:|
-| SMA 5 | 1417.66 | SMA 10 | 1417.78 | SMA 20 | 1429.06 |
-| SMA 50 | 1461.76 | SMA 100 | 1474.12 | SMA 200 | 1482.17 |
-| EMA 5 | 1417.38 | EMA 10 | 1420.02 | EMA 20 | 1430.06 |
-| EMA 50 | 1451.79 | EMA 100 | 1466.26 | EMA 200 | 1474.76 |
-| WMA 10 | 1417.79 | WMA 20 | 1420.38 | MACD | -14.0876 |
-| MACD Signal | -15.1884 | MACD Diff | 1.1008 | ADX | 47.40 |
-| ADX+ | 13.70 | ADX- | 41.31 | Aroon Up | 36.00 |
-| Aroon Down | 44.00 | Aroon Ind | -8.00 | CCI | -43.90 |
-| DPO | -7.37 | Mass Index | 30.04 | Ichimoku A | 1429.80 |
-| Ichimoku B | 1445.05 | Ichimoku Base | 1441.80 | Ichimoku Conv | 1417.80 |
-| PSAR | 1447.22 | STC | 0.01 | TRIX | -0.1574 |
-| Vortex + | 1.19 | Vortex - | 0.93 |  |  |
-
-### 🌡️ Volatility Indicators
-
-| Indicator | Value | Indicator | Value | Indicator | Value |
-|-----------|------:|-----------|------:|-----------|------:|
-| KC Upper | 1434.76 | KC Middle | 1428.77 | KC Lower | 1422.79 |
-| DC Upper | 1483.70 | DC Middle | 1441.80 | DC Lower | 1399.90 |
-| ATR | 5.89 | BB Upper | 1479.40 | BB Middle | 1429.06 |
-| BB Lower | 1378.73 | BB %B | 0.3712 | BB Width | 7.0443 |
-| Ulcer Index | 3.88 |  |  |  |  |
-
-### ⚡ Momentum Indicators
-
-| Indicator | Value | Indicator | Value | Indicator | Value |
-|-----------|------:|-----------|------:|-----------|------:|
-| RSI 7 | 31.32 | RSI 14 | 28.99 | RSI 21 | 28.47 |
-| Stoch %K | 38.57 | Stoch %D | 60.30 | ROC | 0.0424 |
-| Williams %R | -61.43 | Awe. Osc. | -32.7453 | KAMA | 1423.57 |
-| PPO | -0.9811 | PVO | 6.1193 | TSI | -44.4780 |
-| Ult. Osc. | 58.95 |  |  |  |  |
-
-### 📦 Volume Indicators
-
-| Indicator | Value | Indicator | Value | Indicator | Value |
-|-----------|------:|-----------|------:|-----------|------:|
-| OBV | 2470859 | CMF | 0.3125 | Acc/Dist | 1657708 |
-| MFI | 48.57 | Force Index | 21791 | EOM | -12732.301241 |
-| VPT | 4517 | NVI | 980.59 | VWAP | 1417.62 |
+| OBV | 37585 | CMF | 0.2584 | Acc/Dist | 22754 |
+| MFI | 75.63 | Force Index | 51 | EOM | 0.000000 |
+| VPT | 24 | NVI | 1013.57 | VWAP | 5358.10 |
 
 ### 🕯️ Price Action
 
@@ -556,630 +100,1086 @@
 
 ---
 
-## COLPAL_NS
+## APLAPOLLO_NS
 
-**Date:** `2026-06-19 09:30:00` &nbsp;|&nbsp; **Close:** `2017.50` &nbsp;|&nbsp; **Signal:** 🟡 **HOLD**
+**Date:** `2026-06-19 09:45:00` &nbsp;|&nbsp; **Close:** `1856.30` &nbsp;|&nbsp; **Signal:** 🟡 **HOLD**
 
 ### 📈 Trend Indicators
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| SMA 5 | 2017.80 | SMA 10 | 2016.81 | SMA 20 | 2018.41 |
-| SMA 50 | 2023.91 | SMA 100 | 2024.83 | SMA 200 | 2026.61 |
-| EMA 5 | 2017.45 | EMA 10 | 2017.49 | EMA 20 | 2018.84 |
-| EMA 50 | 2022.01 | EMA 100 | 2024.12 | EMA 200 | 2026.19 |
-| WMA 10 | 2017.17 | WMA 20 | 2017.27 | MACD | -2.0127 |
-| MACD Signal | -2.3859 | MACD Diff | 0.3732 | ADX | 30.48 |
-| ADX+ | 19.61 | ADX- | 25.11 | Aroon Up | 0.00 |
-| Aroon Down | 44.00 | Aroon Ind | -44.00 | CCI | -17.66 |
-| DPO | -0.91 | Mass Index | 28.17 | Ichimoku A | 2018.38 |
-| Ichimoku B | 2021.25 | Ichimoku Base | 2019.90 | Ichimoku Conv | 2016.85 |
-| PSAR | 2013.64 | STC | 95.62 | TRIX | -0.0182 |
-| Vortex + | 1.06 | Vortex - | 0.90 |  |  |
+| SMA 5 | 1856.76 | SMA 10 | 1856.26 | SMA 20 | 1856.72 |
+| SMA 50 | 1857.30 | SMA 100 | 1855.81 | SMA 200 | 1854.99 |
+| EMA 5 | 1856.74 | EMA 10 | 1856.53 | EMA 20 | 1856.41 |
+| EMA 50 | 1856.54 | EMA 100 | 1856.08 | EMA 200 | 1855.28 |
+| WMA 10 | 1856.50 | WMA 20 | 1856.47 | MACD | 0.0391 |
+| MACD Signal | -0.1228 | MACD Diff | 0.1619 | ADX | 16.14 |
+| ADX+ | 27.09 | ADX- | 18.94 | Aroon Up | 24.00 |
+| Aroon Down | 0.00 | Aroon Ind | 24.00 | CCI | -34.24 |
+| DPO | -0.81 | Mass Index | 23.96 | Ichimoku A | 1855.85 |
+| Ichimoku B | 1855.10 | Ichimoku Base | 1854.55 | Ichimoku Conv | 1857.15 |
+| PSAR | 1850.89 | STC | 75.84 | TRIX | -0.0011 |
+| Vortex + | 0.95 | Vortex - | 0.98 |  |  |
 
 ### 🌡️ Volatility Indicators
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| KC Upper | 2021.02 | KC Middle | 2018.53 | KC Lower | 2016.03 |
-| DC Upper | 2027.30 | DC Middle | 2019.90 | DC Lower | 2012.50 |
-| ATR | 2.24 | BB Upper | 2026.19 | BB Middle | 2018.41 |
-| BB Lower | 2010.63 | BB %B | 0.4415 | BB Width | 0.7712 |
-| Ulcer Index | 0.48 |  |  |  |  |
+| KC Upper | 1858.49 | KC Middle | 1856.75 | KC Lower | 1855.02 |
+| DC Upper | 1860.70 | DC Middle | 1857.85 | DC Lower | 1855.00 |
+| ATR | 1.95 | BB Upper | 1859.34 | BB Middle | 1856.72 |
+| BB Lower | 1854.09 | BB %B | 0.4210 | BB Width | 0.2831 |
+| Ulcer Index | 0.15 |  |  |  |  |
 
 ### ⚡ Momentum Indicators
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| RSI 7 | 48.19 | RSI 14 | 44.04 | RSI 21 | 43.23 |
-| Stoch %K | 69.84 | Stoch %D | 63.05 | ROC | 0.0297 |
-| Williams %R | -30.16 | Awe. Osc. | -4.8003 | KAMA | 2019.82 |
-| PPO | -0.0997 | PVO | -35.7270 | TSI | -18.3389 |
-| Ult. Osc. | 52.82 |  |  |  |  |
+| RSI 7 | 48.96 | RSI 14 | 49.52 | RSI 21 | 49.47 |
+| Stoch %K | 26.53 | Stoch %D | 52.38 | ROC | -0.0861 |
+| Williams %R | -73.47 | Awe. Osc. | 0.9297 | KAMA | 1856.31 |
+| PPO | 0.0021 | PVO | -53.6618 | TSI | 0.3899 |
+| Ult. Osc. | 54.91 |  |  |  |  |
 
 ### 📦 Volume Indicators
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | -30644 | CMF | -0.0815 | Acc/Dist | -37492 |
-| MFI | 59.49 | Force Index | -43 | EOM | 32406.097109 |
-| VPT | -24 | NVI | 1009.11 | VWAP | 2016.75 |
+| OBV | -449863 | CMF | -0.3565 | Acc/Dist | -231354 |
+| MFI | 50.02 | Force Index | 135 | EOM | -1063642.913804 |
+| VPT | -587 | NVI | 964.25 | VWAP | 1856.49 |
 
 ### 🕯️ Price Action
 
 | Price Chg % |
 |------------:|
-| 0.0149 |
+| -0.0431 |
+
+---
+
+## ASHOKLEY_NS
+
+**Date:** `2026-06-19 09:45:00` &nbsp;|&nbsp; **Close:** `157.56` &nbsp;|&nbsp; **Signal:** 🟡 **HOLD**
+
+### 📈 Trend Indicators
+
+| Indicator | Value | Indicator | Value | Indicator | Value |
+|-----------|------:|-----------|------:|-----------|------:|
+| SMA 5 | 157.61 | SMA 10 | 157.60 | SMA 20 | 157.53 |
+| SMA 50 | 157.92 | SMA 100 | 158.08 | SMA 200 | 157.90 |
+| EMA 5 | 157.60 | EMA 10 | 157.58 | EMA 20 | 157.60 |
+| EMA 50 | 157.80 | EMA 100 | 157.91 | EMA 200 | 157.93 |
+| WMA 10 | 157.60 | WMA 20 | 157.54 | MACD | -0.0676 |
+| MACD Signal | -0.1133 | MACD Diff | 0.0456 | ADX | 22.13 |
+| ADX+ | 21.92 | ADX- | 21.07 | Aroon Up | 72.00 |
+| Aroon Down | 56.00 | Aroon Ind | 16.00 | CCI | 13.43 |
+| DPO | -0.54 | Mass Index | 24.79 | Ichimoku A | 157.52 |
+| Ichimoku B | 157.76 | Ichimoku Base | 157.40 | Ichimoku Conv | 157.64 |
+| PSAR | 157.04 | STC | 99.95 | TRIX | -0.0114 |
+| Vortex + | 1.08 | Vortex - | 0.99 |  |  |
+
+### 🌡️ Volatility Indicators
+
+| Indicator | Value | Indicator | Value | Indicator | Value |
+|-----------|------:|-----------|------:|-----------|------:|
+| KC Upper | 157.77 | KC Middle | 157.54 | KC Lower | 157.30 |
+| DC Upper | 157.88 | DC Middle | 157.40 | DC Lower | 156.91 |
+| ATR | 0.23 | BB Upper | 157.91 | BB Middle | 157.53 |
+| BB Lower | 157.14 | BB %B | 0.5408 | BB Width | 0.4898 |
+| Ulcer Index | 0.21 |  |  |  |  |
+
+### ⚡ Momentum Indicators
+
+| Indicator | Value | Indicator | Value | Indicator | Value |
+|-----------|------:|-----------|------:|-----------|------:|
+| RSI 7 | 49.04 | RSI 14 | 47.63 | RSI 21 | 46.68 |
+| Stoch %K | 67.01 | Stoch %D | 74.57 | ROC | 0.2290 |
+| Williams %R | -32.99 | Awe. Osc. | -0.0467 | KAMA | 157.71 |
+| PPO | -0.0429 | PVO | -31.1599 | TSI | -6.3066 |
+| Ult. Osc. | 52.13 |  |  |  |  |
+
+### 📦 Volume Indicators
+
+| Indicator | Value | Indicator | Value | Indicator | Value |
+|-----------|------:|-----------|------:|-----------|------:|
+| OBV | 2347395 | CMF | -0.2003 | Acc/Dist | 8472032 |
+| MFI | 53.85 | Force Index | 1660 | EOM | -55.476797 |
+| VPT | -646 | NVI | 976.40 | VWAP | 157.39 |
+
+### 🕯️ Price Action
+
+| Price Chg % |
+|------------:|
+| -0.0254 |
+
+---
+
+## AUBANK_NS
+
+**Date:** `2026-06-19 09:45:00` &nbsp;|&nbsp; **Close:** `1026.90` &nbsp;|&nbsp; **Signal:** 🟡 **HOLD**
+
+### 📈 Trend Indicators
+
+| Indicator | Value | Indicator | Value | Indicator | Value |
+|-----------|------:|-----------|------:|-----------|------:|
+| SMA 5 | 1026.26 | SMA 10 | 1026.62 | SMA 20 | 1026.16 |
+| SMA 50 | 1025.16 | SMA 100 | 1024.99 | SMA 200 | 1025.06 |
+| EMA 5 | 1026.42 | EMA 10 | 1026.31 | EMA 20 | 1025.92 |
+| EMA 50 | 1025.37 | EMA 100 | 1025.08 | EMA 200 | 1024.35 |
+| WMA 10 | 1026.45 | WMA 20 | 1026.32 | MACD | 0.5056 |
+| MACD Signal | 0.5083 | MACD Diff | -0.0028 | ADX | 22.78 |
+| ADX+ | 23.56 | ADX- | 17.14 | Aroon Up | 64.00 |
+| Aroon Down | 8.00 | Aroon Ind | 56.00 | CCI | 51.07 |
+| DPO | -0.76 | Mass Index | 24.33 | Ichimoku A | 1025.24 |
+| Ichimoku B | 1024.17 | Ichimoku Base | 1024.17 | Ichimoku Conv | 1026.30 |
+| PSAR | 1024.85 | STC | 31.30 | TRIX | 0.0075 |
+| Vortex + | 0.96 | Vortex - | 0.92 |  |  |
+
+### 🌡️ Volatility Indicators
+
+| Indicator | Value | Indicator | Value | Indicator | Value |
+|-----------|------:|-----------|------:|-----------|------:|
+| KC Upper | 1027.05 | KC Middle | 1026.07 | KC Lower | 1025.09 |
+| DC Upper | 1027.85 | DC Middle | 1026.08 | DC Lower | 1024.30 |
+| ATR | 1.07 | BB Upper | 1027.50 | BB Middle | 1026.16 |
+| BB Lower | 1024.82 | BB %B | 0.7766 | BB Width | 0.2616 |
+| Ulcer Index | 0.08 |  |  |  |  |
+
+### ⚡ Momentum Indicators
+
+| Indicator | Value | Indicator | Value | Indicator | Value |
+|-----------|------:|-----------|------:|-----------|------:|
+| RSI 7 | 60.47 | RSI 14 | 57.53 | RSI 21 | 55.91 |
+| Stoch %K | 67.80 | Stoch %D | 48.02 | ROC | 0.0877 |
+| Williams %R | -32.20 | Awe. Osc. | 1.2957 | KAMA | 1025.29 |
+| PPO | 0.0493 | PVO | -11.2928 | TSI | 11.1522 |
+| Ult. Osc. | 59.51 |  |  |  |  |
+
+### 📦 Volume Indicators
+
+| Indicator | Value | Indicator | Value | Indicator | Value |
+|-----------|------:|-----------|------:|-----------|------:|
+| OBV | 117266 | CMF | 0.1854 | Acc/Dist | 504392 |
+| MFI | 44.30 | Force Index | -514 | EOM | 15521.117814 |
+| VPT | 29 | NVI | 954.48 | VWAP | 1026.20 |
+
+### 🕯️ Price Action
+
+| Price Chg % |
+|------------:|
+| 0.0828 |
+
+---
+
+## AUROPHARMA_NS
+
+**Date:** `2026-06-19 09:45:00` &nbsp;|&nbsp; **Close:** `1457.20` &nbsp;|&nbsp; **Signal:** 🔴 **SELL**
+
+### 📈 Trend Indicators
+
+| Indicator | Value | Indicator | Value | Indicator | Value |
+|-----------|------:|-----------|------:|-----------|------:|
+| SMA 5 | 1459.08 | SMA 10 | 1458.59 | SMA 20 | 1459.09 |
+| SMA 50 | 1455.02 | SMA 100 | 1446.76 | SMA 200 | 1440.42 |
+| EMA 5 | 1458.42 | EMA 10 | 1458.70 | EMA 20 | 1458.66 |
+| EMA 50 | 1455.04 | EMA 100 | 1449.39 | EMA 200 | 1442.86 |
+| WMA 10 | 1458.80 | WMA 20 | 1458.54 | MACD | 0.5772 |
+| MACD Signal | 1.0662 | MACD Diff | -0.4890 | ADX | 24.76 |
+| ADX+ | 30.20 | ADX- | 26.46 | Aroon Up | 24.00 |
+| Aroon Down | 48.00 | Aroon Ind | -24.00 | CCI | -54.90 |
+| DPO | 0.81 | Mass Index | 23.17 | Ichimoku A | 1460.32 |
+| Ichimoku B | 1456.10 | Ichimoku Base | 1461.40 | Ichimoku Conv | 1459.25 |
+| PSAR | 1456.26 | STC | 0.75 | TRIX | 0.0101 |
+| Vortex + | 0.99 | Vortex - | 1.01 |  |  |
+
+### 🌡️ Volatility Indicators
+
+| Indicator | Value | Indicator | Value | Indicator | Value |
+|-----------|------:|-----------|------:|-----------|------:|
+| KC Upper | 1461.04 | KC Middle | 1459.11 | KC Lower | 1457.18 |
+| DC Upper | 1467.20 | DC Middle | 1461.40 | DC Lower | 1455.60 |
+| ATR | 2.18 | BB Upper | 1465.05 | BB Middle | 1459.09 |
+| BB Lower | 1453.14 | BB %B | 0.3408 | BB Width | 0.8158 |
+| Ulcer Index | 0.54 |  |  |  |  |
+
+### ⚡ Momentum Indicators
+
+| Indicator | Value | Indicator | Value | Indicator | Value |
+|-----------|------:|-----------|------:|-----------|------:|
+| RSI 7 | 41.30 | RSI 14 | 47.95 | RSI 21 | 51.42 |
+| Stoch %K | 23.19 | Stoch %D | 35.75 | ROC | 0.0481 |
+| Williams %R | -76.81 | Awe. Osc. | -0.0076 | KAMA | 1459.59 |
+| PPO | 0.0396 | PVO | -14.8611 | TSI | 4.6777 |
+| Ult. Osc. | 54.49 |  |  |  |  |
+
+### 📦 Volume Indicators
+
+| Indicator | Value | Indicator | Value | Indicator | Value |
+|-----------|------:|-----------|------:|-----------|------:|
+| OBV | 270809 | CMF | 0.0774 | Acc/Dist | -163245 |
+| MFI | 59.09 | Force Index | 5936 | EOM | -27173.309929 |
+| VPT | -1801 | NVI | 1020.05 | VWAP | 1458.89 |
+
+### 🕯️ Price Action
+
+| Price Chg % |
+|------------:|
+| -0.0549 |
+
+---
+
+## BHARATFORG_NS
+
+**Date:** `2026-06-19 09:45:00` &nbsp;|&nbsp; **Close:** `2044.00` &nbsp;|&nbsp; **Signal:** 🟡 **HOLD**
+
+### 📈 Trend Indicators
+
+| Indicator | Value | Indicator | Value | Indicator | Value |
+|-----------|------:|-----------|------:|-----------|------:|
+| SMA 5 | 2051.82 | SMA 10 | 2052.07 | SMA 20 | 2043.96 |
+| SMA 50 | 2032.45 | SMA 100 | 2022.48 | SMA 200 | 2018.53 |
+| EMA 5 | 2048.95 | EMA 10 | 2049.10 | EMA 20 | 2045.03 |
+| EMA 50 | 2035.26 | EMA 100 | 2027.58 | EMA 200 | 2023.39 |
+| WMA 10 | 2051.67 | WMA 20 | 2048.24 | MACD | 5.8217 |
+| MACD Signal | 6.4910 | MACD Diff | -0.6693 | ADX | 43.36 |
+| ADX+ | 28.63 | ADX- | 30.68 | Aroon Up | 80.00 |
+| Aroon Down | 40.00 | Aroon Ind | 40.00 | CCI | -5.95 |
+| DPO | -0.86 | Mass Index | 24.08 | Ichimoku A | 2047.05 |
+| Ichimoku B | 2037.30 | Ichimoku Base | 2044.70 | Ichimoku Conv | 2049.40 |
+| PSAR | 2059.02 | STC | 24.99 | TRIX | 0.0465 |
+| Vortex + | 1.18 | Vortex - | 0.81 |  |  |
+
+### 🌡️ Volatility Indicators
+
+| Indicator | Value | Indicator | Value | Indicator | Value |
+|-----------|------:|-----------|------:|-----------|------:|
+| KC Upper | 2047.16 | KC Middle | 2043.53 | KC Lower | 2039.90 |
+| DC Upper | 2059.40 | DC Middle | 2044.70 | DC Lower | 2030.00 |
+| ATR | 4.47 | BB Upper | 2063.19 | BB Middle | 2043.96 |
+| BB Lower | 2024.72 | BB %B | 0.5012 | BB Width | 1.8822 |
+| Ulcer Index | 0.29 |  |  |  |  |
+
+### ⚡ Momentum Indicators
+
+| Indicator | Value | Indicator | Value | Indicator | Value |
+|-----------|------:|-----------|------:|-----------|------:|
+| RSI 7 | 40.43 | RSI 14 | 52.27 | RSI 21 | 55.77 |
+| Stoch %K | 34.19 | Stoch %D | 54.77 | ROC | 0.3338 |
+| Williams %R | -65.81 | Awe. Osc. | 14.9473 | KAMA | 2055.64 |
+| PPO | 0.2850 | PVO | 27.2280 | TSI | 31.7892 |
+| Ult. Osc. | 53.77 |  |  |  |  |
+
+### 📦 Volume Indicators
+
+| Indicator | Value | Indicator | Value | Indicator | Value |
+|-----------|------:|-----------|------:|-----------|------:|
+| OBV | 323693 | CMF | 0.4248 | Acc/Dist | 294970 |
+| MFI | 75.24 | Force Index | -32322 | EOM | -138858.952819 |
+| VPT | 86 | NVI | 1053.48 | VWAP | 2050.28 |
+
+### 🕯️ Price Action
+
+| Price Chg % |
+|------------:|
+| 0.0832 |
+
+---
+
+## BHEL_NS
+
+**Date:** `2026-06-19 09:45:00` &nbsp;|&nbsp; **Close:** `411.65` &nbsp;|&nbsp; **Signal:** 🟢 **BUY**
+
+### 📈 Trend Indicators
+
+| Indicator | Value | Indicator | Value | Indicator | Value |
+|-----------|------:|-----------|------:|-----------|------:|
+| SMA 5 | 411.96 | SMA 10 | 411.46 | SMA 20 | 410.54 |
+| SMA 50 | 408.42 | SMA 100 | 407.30 | SMA 200 | 406.52 |
+| EMA 5 | 411.75 | EMA 10 | 411.40 | EMA 20 | 410.63 |
+| EMA 50 | 409.02 | EMA 100 | 407.77 | EMA 200 | 405.84 |
+| WMA 10 | 411.68 | WMA 20 | 411.04 | MACD | 1.0196 |
+| MACD Signal | 0.9855 | MACD Diff | 0.0342 | ADX | 33.32 |
+| ADX+ | 36.00 | ADX- | 12.82 | Aroon Up | 92.00 |
+| Aroon Down | 0.00 | Aroon Ind | 92.00 | CCI | 86.67 |
+| DPO | -0.29 | Mass Index | 23.25 | Ichimoku A | 410.62 |
+| Ichimoku B | 408.32 | Ichimoku Base | 409.72 | Ichimoku Conv | 411.52 |
+| PSAR | 410.45 | STC | 99.92 | TRIX | 0.0354 |
+| Vortex + | 1.29 | Vortex - | 0.68 |  |  |
+
+### 🌡️ Volatility Indicators
+
+| Indicator | Value | Indicator | Value | Indicator | Value |
+|-----------|------:|-----------|------:|-----------|------:|
+| KC Upper | 411.06 | KC Middle | 410.49 | KC Lower | 409.91 |
+| DC Upper | 412.65 | DC Middle | 410.65 | DC Lower | 408.65 |
+| ATR | 0.66 | BB Upper | 412.72 | BB Middle | 410.54 |
+| BB Lower | 408.35 | BB %B | 0.7552 | BB Width | 1.0643 |
+| Ulcer Index | 0.16 |  |  |  |  |
+
+### ⚡ Momentum Indicators
+
+| Indicator | Value | Indicator | Value | Indicator | Value |
+|-----------|------:|-----------|------:|-----------|------:|
+| RSI 7 | 60.01 | RSI 14 | 63.75 | RSI 21 | 63.79 |
+| Stoch %K | 75.00 | Stoch %D | 82.92 | ROC | 0.6479 |
+| Williams %R | -25.00 | Awe. Osc. | 2.5982 | KAMA | 411.19 |
+| PPO | 0.2486 | PVO | -6.9966 | TSI | 34.0030 |
+| Ult. Osc. | 68.03 |  |  |  |  |
+
+### 📦 Volume Indicators
+
+| Indicator | Value | Indicator | Value | Indicator | Value |
+|-----------|------:|-----------|------:|-----------|------:|
+| OBV | 5829864 | CMF | 0.4137 | Acc/Dist | 2510726 |
+| MFI | 64.62 | Force Index | 10686 | EOM | -495.284218 |
+| VPT | 11501 | NVI | 1030.88 | VWAP | 410.72 |
+
+### 🕯️ Price Action
+
+| Price Chg % |
+|------------:|
+| -0.0121 |
+
+---
+
+## BSE_NS
+
+**Date:** `2026-06-19 09:45:00` &nbsp;|&nbsp; **Close:** `4054.00` &nbsp;|&nbsp; **Signal:** 🟢 **BUY**
+
+### 📈 Trend Indicators
+
+| Indicator | Value | Indicator | Value | Indicator | Value |
+|-----------|------:|-----------|------:|-----------|------:|
+| SMA 5 | 4048.02 | SMA 10 | 4044.48 | SMA 20 | 4036.77 |
+| SMA 50 | 4023.28 | SMA 100 | 4019.87 | SMA 200 | 4021.36 |
+| EMA 5 | 4048.32 | EMA 10 | 4044.39 | EMA 20 | 4037.94 |
+| EMA 50 | 4028.24 | EMA 100 | 4023.81 | EMA 200 | 4023.28 |
+| WMA 10 | 4046.94 | WMA 20 | 4041.33 | MACD | 7.8908 |
+| MACD Signal | 6.7519 | MACD Diff | 1.1388 | ADX | 22.55 |
+| ADX+ | 26.11 | ADX- | 14.19 | Aroon Up | 100.00 |
+| Aroon Down | 4.00 | Aroon Ind | 96.00 | CCI | 124.19 |
+| DPO | -6.67 | Mass Index | 23.96 | Ichimoku A | 4037.53 |
+| Ichimoku B | 4016.50 | Ichimoku Base | 4032.00 | Ichimoku Conv | 4043.05 |
+| PSAR | 4040.20 | STC | 100.00 | TRIX | 0.0246 |
+| Vortex + | 1.18 | Vortex - | 0.72 |  |  |
+
+### 🌡️ Volatility Indicators
+
+| Indicator | Value | Indicator | Value | Indicator | Value |
+|-----------|------:|-----------|------:|-----------|------:|
+| KC Upper | 4042.19 | KC Middle | 4035.94 | KC Lower | 4029.69 |
+| DC Upper | 4054.00 | DC Middle | 4036.30 | DC Lower | 4018.60 |
+| ATR | 6.95 | BB Upper | 4054.85 | BB Middle | 4036.77 |
+| BB Lower | 4018.70 | BB %B | 0.9765 | BB Width | 0.8955 |
+| Ulcer Index | 0.08 |  |  |  |  |
+
+### ⚡ Momentum Indicators
+
+| Indicator | Value | Indicator | Value | Indicator | Value |
+|-----------|------:|-----------|------:|-----------|------:|
+| RSI 7 | 71.99 | RSI 14 | 68.20 | RSI 21 | 65.46 |
+| Stoch %K | 100.00 | Stoch %D | 81.05 | ROC | 0.4734 |
+| Williams %R | 0.00 | Awe. Osc. | 20.9482 | KAMA | 4041.17 |
+| PPO | 0.1956 | PVO | 1.7810 | TSI | 29.6025 |
+| Ult. Osc. | 65.51 |  |  |  |  |
+
+### 📦 Volume Indicators
+
+| Indicator | Value | Indicator | Value | Indicator | Value |
+|-----------|------:|-----------|------:|-----------|------:|
+| OBV | 512898 | CMF | 0.3166 | Acc/Dist | 921227 |
+| MFI | 78.86 | Force Index | 12140 | EOM | 209106.812028 |
+| VPT | -2051 | NVI | 1017.51 | VWAP | 4040.21 |
+
+### 🕯️ Price Action
+
+| Price Chg % |
+|------------:|
+| 0.1235 |
+
+---
+
+## COFORGE_NS
+
+**Date:** `2026-06-19 09:45:00` &nbsp;|&nbsp; **Close:** `1438.50` &nbsp;|&nbsp; **Signal:** 🟢 **BUY**
+
+### 📈 Trend Indicators
+
+| Indicator | Value | Indicator | Value | Indicator | Value |
+|-----------|------:|-----------|------:|-----------|------:|
+| SMA 5 | 1437.92 | SMA 10 | 1433.93 | SMA 20 | 1426.70 |
+| SMA 50 | 1444.71 | SMA 100 | 1465.31 | SMA 200 | 1477.75 |
+| EMA 5 | 1437.25 | EMA 10 | 1434.11 | EMA 20 | 1432.01 |
+| EMA 50 | 1442.36 | EMA 100 | 1456.95 | EMA 200 | 1468.53 |
+| WMA 10 | 1436.19 | WMA 20 | 1430.96 | MACD | -0.0308 |
+| MACD Signal | -3.3839 | MACD Diff | 3.3531 | ADX | 28.26 |
+| ADX+ | 32.80 | ADX- | 18.86 | Aroon Up | 100.00 |
+| Aroon Down | 4.00 | Aroon Ind | 96.00 | CCI | 118.64 |
+| DPO | -5.11 | Mass Index | 22.83 | Ichimoku A | 1430.67 |
+| Ichimoku B | 1444.10 | Ichimoku Base | 1427.85 | Ichimoku Conv | 1433.50 |
+| PSAR | 1408.98 | STC | 100.00 | TRIX | -0.0378 |
+| Vortex + | 1.43 | Vortex - | 0.52 |  |  |
+
+### 🌡️ Volatility Indicators
+
+| Indicator | Value | Indicator | Value | Indicator | Value |
+|-----------|------:|-----------|------:|-----------|------:|
+| KC Upper | 1429.56 | KC Middle | 1426.19 | KC Lower | 1422.82 |
+| DC Upper | 1441.60 | DC Middle | 1427.95 | DC Lower | 1414.30 |
+| ATR | 4.25 | BB Upper | 1442.85 | BB Middle | 1426.70 |
+| BB Lower | 1410.56 | BB %B | 0.8653 | BB Width | 2.2630 |
+| Ulcer Index | 0.06 |  |  |  |  |
+
+### ⚡ Momentum Indicators
+
+| Indicator | Value | Indicator | Value | Indicator | Value |
+|-----------|------:|-----------|------:|-----------|------:|
+| RSI 7 | 76.74 | RSI 14 | 57.90 | RSI 21 | 49.75 |
+| Stoch %K | 87.84 | Stoch %D | 94.46 | ROC | 1.0395 |
+| Williams %R | -12.16 | Awe. Osc. | 10.0206 | KAMA | 1437.32 |
+| PPO | -0.0022 | PVO | 8.3487 | TSI | -0.7379 |
+| Ult. Osc. | 71.27 |  |  |  |  |
+
+### 📦 Volume Indicators
+
+| Indicator | Value | Indicator | Value | Indicator | Value |
+|-----------|------:|-----------|------:|-----------|------:|
+| OBV | 3043044 | CMF | 0.4610 | Acc/Dist | 2016961 |
+| MFI | 92.28 | Force Index | 65364 | EOM | 13176.618984 |
+| VPT | 5339 | NVI | 984.39 | VWAP | 1431.54 |
+
+### 🕯️ Price Action
+
+| Price Chg % |
+|------------:|
+| -0.0764 |
+
+---
+
+## COLPAL_NS
+
+**Date:** `2026-06-19 09:45:00` &nbsp;|&nbsp; **Close:** `2018.10` &nbsp;|&nbsp; **Signal:** 🟡 **HOLD**
+
+### 📈 Trend Indicators
+
+| Indicator | Value | Indicator | Value | Indicator | Value |
+|-----------|------:|-----------|------:|-----------|------:|
+| SMA 5 | 2017.80 | SMA 10 | 2017.16 | SMA 20 | 2017.10 |
+| SMA 50 | 2020.65 | SMA 100 | 2023.38 | SMA 200 | 2025.70 |
+| EMA 5 | 2017.64 | EMA 10 | 2017.36 | EMA 20 | 2017.50 |
+| EMA 50 | 2019.73 | EMA 100 | 2022.26 | EMA 200 | 2024.90 |
+| WMA 10 | 2017.51 | WMA 20 | 2017.09 | MACD | -0.5780 |
+| MACD Signal | -1.0412 | MACD Diff | 0.4632 | ADX | 17.54 |
+| ADX+ | 24.95 | ADX- | 24.26 | Aroon Up | 0.00 |
+| Aroon Down | 60.00 | Aroon Ind | -60.00 | CCI | 71.54 |
+| DPO | -2.10 | Mass Index | 22.55 | Ichimoku A | 2016.58 |
+| Ichimoku B | 2021.15 | Ichimoku Base | 2016.30 | Ichimoku Conv | 2016.85 |
+| PSAR | 2013.74 | STC | 99.34 | TRIX | -0.0079 |
+| Vortex + | 0.94 | Vortex - | 0.99 |  |  |
+
+### 🌡️ Volatility Indicators
+
+| Indicator | Value | Indicator | Value | Indicator | Value |
+|-----------|------:|-----------|------:|-----------|------:|
+| KC Upper | 2018.52 | KC Middle | 2016.96 | KC Lower | 2015.40 |
+| DC Upper | 2019.00 | DC Middle | 2016.10 | DC Lower | 2013.20 |
+| ATR | 1.74 | BB Upper | 2019.60 | BB Middle | 2017.10 |
+| BB Lower | 2014.61 | BB %B | 0.6991 | BB Width | 0.2478 |
+| Ulcer Index | 0.13 |  |  |  |  |
+
+### ⚡ Momentum Indicators
+
+| Indicator | Value | Indicator | Value | Indicator | Value |
+|-----------|------:|-----------|------:|-----------|------:|
+| RSI 7 | 56.99 | RSI 14 | 50.45 | RSI 21 | 47.95 |
+| Stoch %K | 87.50 | Stoch %D | 75.72 | ROC | 0.1091 |
+| Williams %R | -12.50 | Awe. Osc. | -0.0265 | KAMA | 2018.88 |
+| PPO | -0.0286 | PVO | -39.4750 | TSI | -6.5750 |
+| Ult. Osc. | 71.30 |  |  |  |  |
+
+### 📦 Volume Indicators
+
+| Indicator | Value | Indicator | Value | Indicator | Value |
+|-----------|------:|-----------|------:|-----------|------:|
+| OBV | -28920 | CMF | 0.3197 | Acc/Dist | -35763 |
+| MFI | 39.10 | Force Index | 79 | EOM | 21467.341880 |
+| VPT | -23 | NVI | 1011.11 | VWAP | 2016.51 |
+
+### 🕯️ Price Action
+
+| Price Chg % |
+|------------:|
+| 0.0297 |
 
 ---
 
 ## DABUR_NS
 
-**Date:** `2026-06-19 09:30:00` &nbsp;|&nbsp; **Close:** `425.40` &nbsp;|&nbsp; **Signal:** 🟡 **HOLD**
+**Date:** `2026-06-19 09:45:00` &nbsp;|&nbsp; **Close:** `425.25` &nbsp;|&nbsp; **Signal:** 🟡 **HOLD**
 
 ### 📈 Trend Indicators
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| SMA 5 | 425.90 | SMA 10 | 425.82 | SMA 20 | 426.15 |
-| SMA 50 | 427.62 | SMA 100 | 427.60 | SMA 200 | 428.47 |
-| EMA 5 | 425.73 | EMA 10 | 425.86 | EMA 20 | 426.26 |
-| EMA 50 | 427.06 | EMA 100 | 427.59 | EMA 200 | 428.27 |
-| WMA 10 | 425.82 | WMA 20 | 425.82 | MACD | -0.5694 |
-| MACD Signal | -0.6205 | MACD Diff | 0.0511 | ADX | 29.26 |
-| ADX+ | 19.99 | ADX- | 37.32 | Aroon Up | 12.00 |
-| Aroon Down | 48.00 | Aroon Ind | -36.00 | CCI | -52.95 |
-| DPO | -0.50 | Mass Index | 27.33 | Ichimoku A | 426.19 |
-| Ichimoku B | 426.73 | Ichimoku Base | 426.50 | Ichimoku Conv | 425.88 |
-| PSAR | 424.19 | STC | 44.64 | TRIX | -0.0226 |
-| Vortex + | 0.94 | Vortex - | 0.94 |  |  |
+| SMA 5 | 425.22 | SMA 10 | 425.18 | SMA 20 | 425.35 |
+| SMA 50 | 426.60 | SMA 100 | 427.17 | SMA 200 | 428.06 |
+| EMA 5 | 425.24 | EMA 10 | 425.23 | EMA 20 | 425.42 |
+| EMA 50 | 426.21 | EMA 100 | 426.97 | EMA 200 | 427.83 |
+| WMA 10 | 425.20 | WMA 20 | 425.21 | MACD | -0.3390 |
+| MACD Signal | -0.4404 | MACD Diff | 0.1013 | ADX | 33.90 |
+| ADX+ | 18.36 | ADX- | 31.83 | Aroon Up | 24.00 |
+| Aroon Down | 60.00 | Aroon Ind | -36.00 | CCI | -7.78 |
+| DPO | -0.35 | Mass Index | 22.65 | Ichimoku A | 425.28 |
+| Ichimoku B | 426.70 | Ichimoku Base | 425.50 | Ichimoku Conv | 425.05 |
+| PSAR | 424.77 | STC | 99.22 | TRIX | -0.0157 |
+| Vortex + | 0.98 | Vortex - | 0.97 |  |  |
 
 ### 🌡️ Volatility Indicators
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| KC Upper | 426.76 | KC Middle | 426.19 | KC Lower | 425.61 |
-| DC Upper | 428.95 | DC Middle | 426.48 | DC Lower | 424.00 |
-| ATR | 0.51 | BB Upper | 428.49 | BB Middle | 426.15 |
-| BB Lower | 423.81 | BB %B | 0.3402 | BB Width | 1.0974 |
-| Ulcer Index | 0.65 |  |  |  |  |
+| KC Upper | 425.69 | KC Middle | 425.33 | KC Lower | 424.97 |
+| DC Upper | 426.40 | DC Middle | 425.50 | DC Lower | 424.60 |
+| ATR | 0.39 | BB Upper | 426.12 | BB Middle | 425.35 |
+| BB Lower | 424.57 | BB %B | 0.4369 | BB Width | 0.3635 |
+| Ulcer Index | 0.25 |  |  |  |  |
 
 ### ⚡ Momentum Indicators
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| RSI 7 | 38.00 | RSI 14 | 38.12 | RSI 21 | 38.76 |
-| Stoch %K | 58.33 | Stoch %D | 62.88 | ROC | 0.1412 |
-| Williams %R | -41.67 | Awe. Osc. | -1.2882 | KAMA | 425.83 |
-| PPO | -0.1335 | PVO | -33.1200 | TSI | -23.6709 |
-| Ult. Osc. | 50.03 |  |  |  |  |
+| RSI 7 | 49.30 | RSI 14 | 43.88 | RSI 21 | 42.38 |
+| Stoch %K | 76.47 | Stoch %D | 74.17 | ROC | 0.0353 |
+| Williams %R | -23.53 | Awe. Osc. | -0.4203 | KAMA | 425.44 |
+| PPO | -0.0797 | PVO | -47.7470 | TSI | -18.4758 |
+| Ult. Osc. | 52.79 |  |  |  |  |
 
 ### 📦 Volume Indicators
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | -227544 | CMF | -0.1813 | Acc/Dist | -83536 |
-| MFI | 69.10 | Force Index | 12 | EOM | -5524.078315 |
-| VPT | -1154 | NVI | 1029.03 | VWAP | 425.53 |
+| OBV | -232933 | CMF | 0.2549 | Acc/Dist | -70092 |
+| MFI | 31.35 | Force Index | -35 | EOM | 0.000000 |
+| VPT | -1157 | NVI | 1030.00 | VWAP | 425.07 |
 
 ### 🕯️ Price Action
 
 | Price Chg % |
 |------------:|
-| -0.0705 |
+| -0.0353 |
 
 ---
 
 ## DIXON_NS
 
-**Date:** `2026-06-19 09:30:00` &nbsp;|&nbsp; **Close:** `12391.00` &nbsp;|&nbsp; **Signal:** 🔴 **SELL**
+**Date:** `2026-06-19 09:45:00` &nbsp;|&nbsp; **Close:** `12448.00` &nbsp;|&nbsp; **Signal:** 🟡 **HOLD**
 
 ### 📈 Trend Indicators
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| SMA 5 | 12430.00 | SMA 10 | 12449.30 | SMA 20 | 12499.35 |
-| SMA 50 | 12599.24 | SMA 100 | 12619.46 | SMA 200 | 12669.03 |
-| EMA 5 | 12425.46 | EMA 10 | 12448.28 | EMA 20 | 12491.90 |
-| EMA 50 | 12563.47 | EMA 100 | 12609.19 | EMA 200 | 12652.49 |
-| WMA 10 | 12436.24 | WMA 20 | 12461.36 | MACD | -55.2396 |
-| MACD Signal | -50.9079 | MACD Diff | -4.3317 | ADX | 39.55 |
-| ADX+ | 10.71 | ADX- | 43.15 | Aroon Up | 36.00 |
-| Aroon Down | 100.00 | Aroon Ind | -64.00 | CCI | -110.71 |
-| DPO | -14.35 | Mass Index | 29.73 | Ichimoku A | 12481.00 |
-| Ichimoku B | 12532.00 | Ichimoku Base | 12524.50 | Ichimoku Conv | 12437.50 |
-| PSAR | 12554.68 | STC | 0.00 | TRIX | -0.0602 |
-| Vortex + | 0.84 | Vortex - | 1.15 |  |  |
+| SMA 5 | 12453.20 | SMA 10 | 12426.60 | SMA 20 | 12415.75 |
+| SMA 50 | 12521.98 | SMA 100 | 12585.40 | SMA 200 | 12643.77 |
+| EMA 5 | 12443.50 | EMA 10 | 12433.40 | EMA 20 | 12438.14 |
+| EMA 50 | 12496.81 | EMA 100 | 12558.43 | EMA 200 | 12619.01 |
+| WMA 10 | 12438.55 | WMA 20 | 12420.20 | MACD | -17.3769 |
+| MACD Signal | -31.7534 | MACD Diff | 14.3765 | ADX | 31.65 |
+| ADX+ | 21.31 | ADX- | 21.71 | Aroon Up | 4.00 |
+| Aroon Down | 64.00 | Aroon Ind | -60.00 | CCI | 68.28 |
+| DPO | -43.75 | Mass Index | 24.99 | Ichimoku A | 12430.00 |
+| Ichimoku B | 12516.00 | Ichimoku Base | 12428.50 | Ichimoku Conv | 12431.50 |
+| PSAR | 12382.07 | STC | 99.90 | TRIX | -0.0400 |
+| Vortex + | 1.14 | Vortex - | 0.87 |  |  |
 
 ### 🌡️ Volatility Indicators
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| KC Upper | 12536.32 | KC Middle | 12501.17 | KC Lower | 12466.02 |
-| DC Upper | 12679.00 | DC Middle | 12524.50 | DC Lower | 12370.00 |
-| ATR | 33.08 | BB Upper | 12668.75 | BB Middle | 12499.35 |
-| BB Lower | 12329.95 | BB %B | 0.1802 | BB Width | 2.7105 |
-| Ulcer Index | 1.45 |  |  |  |  |
+| KC Upper | 12445.22 | KC Middle | 12415.07 | KC Lower | 12384.92 |
+| DC Upper | 12482.00 | DC Middle | 12417.00 | DC Lower | 12352.00 |
+| ATR | 30.75 | BB Upper | 12478.98 | BB Middle | 12415.75 |
+| BB Lower | 12352.52 | BB %B | 0.7550 | BB Width | 1.0186 |
+| Ulcer Index | 0.57 |  |  |  |  |
 
 ### ⚡ Momentum Indicators
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| RSI 7 | 22.67 | RSI 14 | 25.54 | RSI 21 | 27.10 |
-| Stoch %K | 12.50 | Stoch %D | 17.39 | ROC | -0.4979 |
-| Williams %R | -87.50 | Awe. Osc. | -133.4118 | KAMA | 12472.00 |
-| PPO | -0.4415 | PVO | 12.6647 | TSI | -43.2593 |
-| Ult. Osc. | 41.92 |  |  |  |  |
+| RSI 7 | 58.64 | RSI 14 | 49.24 | RSI 21 | 45.12 |
+| Stoch %K | 73.85 | Stoch %D | 75.13 | ROC | 0.5087 |
+| Williams %R | -26.15 | Awe. Osc. | -7.4971 | KAMA | 12434.48 |
+| PPO | -0.1396 | PVO | -6.9429 | TSI | -14.1985 |
+| Ult. Osc. | 65.94 |  |  |  |  |
 
 ### 📦 Volume Indicators
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 439975 | CMF | -0.0424 | Acc/Dist | 309011 |
-| MFI | 21.75 | Force Index | -65700 | EOM | -19408778.739922 |
-| VPT | 1406 | NVI | 974.98 | VWAP | 12450.76 |
+| OBV | 441312 | CMF | 0.0160 | Acc/Dist | 315772 |
+| MFI | 67.45 | Force Index | 25379 | EOM | -16018158.236057 |
+| VPT | 1435 | NVI | 975.62 | VWAP | 12414.10 |
 
 ### 🕯️ Price Action
 
 | Price Chg % |
 |------------:|
-| -0.2496 |
+| 0.0563 |
 
 ---
 
 ## FEDERALBNK_NS
 
-**Date:** `2026-06-19 09:30:00` &nbsp;|&nbsp; **Close:** `320.95` &nbsp;|&nbsp; **Signal:** 🟡 **HOLD**
+**Date:** `2026-06-19 09:45:00` &nbsp;|&nbsp; **Close:** `320.65` &nbsp;|&nbsp; **Signal:** 🟡 **HOLD**
 
 ### 📈 Trend Indicators
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| SMA 5 | 320.98 | SMA 10 | 320.96 | SMA 20 | 321.21 |
-| SMA 50 | 320.78 | SMA 100 | 320.75 | SMA 200 | 320.72 |
-| EMA 5 | 320.97 | EMA 10 | 321.03 | EMA 20 | 321.05 |
-| EMA 50 | 320.91 | EMA 100 | 320.82 | EMA 200 | 320.78 |
-| WMA 10 | 320.94 | WMA 20 | 321.14 | MACD | 0.0194 |
-| MACD Signal | 0.0889 | MACD Diff | -0.0695 | ADX | 17.36 |
-| ADX+ | 19.62 | ADX- | 25.42 | Aroon Up | 44.00 |
-| Aroon Down | 40.00 | Aroon Ind | 4.00 | CCI | -49.10 |
-| DPO | 0.74 | Mass Index | 26.95 | Ichimoku A | 321.18 |
-| Ichimoku B | 321.40 | Ichimoku Base | 321.40 | Ichimoku Conv | 320.95 |
-| PSAR | 320.57 | STC | 0.10 | TRIX | 0.0049 |
-| Vortex + | 0.83 | Vortex - | 1.33 |  |  |
+| SMA 5 | 320.97 | SMA 10 | 321.04 | SMA 20 | 321.02 |
+| SMA 50 | 320.99 | SMA 100 | 320.77 | SMA 200 | 320.77 |
+| EMA 5 | 320.89 | EMA 10 | 320.98 | EMA 20 | 321.02 |
+| EMA 50 | 320.97 | EMA 100 | 320.87 | EMA 200 | 320.82 |
+| WMA 10 | 320.99 | WMA 20 | 321.02 | MACD | -0.0281 |
+| MACD Signal | 0.0162 | MACD Diff | -0.0443 | ADX | 16.27 |
+| ADX+ | 14.55 | ADX- | 25.12 | Aroon Up | 0.00 |
+| Aroon Down | 16.00 | Aroon Ind | -16.00 | CCI | -192.09 |
+| DPO | -0.07 | Mass Index | 22.55 | Ichimoku A | 321.15 |
+| Ichimoku B | 321.40 | Ichimoku Base | 321.30 | Ichimoku Conv | 321.00 |
+| PSAR | 322.54 | STC | 33.35 | TRIX | 0.0006 |
+| Vortex + | 0.92 | Vortex - | 0.97 |  |  |
 
 ### 🌡️ Volatility Indicators
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| KC Upper | 321.62 | KC Middle | 321.19 | KC Lower | 320.77 |
-| DC Upper | 322.95 | DC Middle | 321.40 | DC Lower | 319.85 |
-| ATR | 0.35 | BB Upper | 322.01 | BB Middle | 321.21 |
-| BB Lower | 320.40 | BB %B | 0.3401 | BB Width | 0.5013 |
-| Ulcer Index | 0.27 |  |  |  |  |
+| KC Upper | 321.28 | KC Middle | 321.02 | KC Lower | 320.75 |
+| DC Upper | 321.35 | DC Middle | 321.00 | DC Lower | 320.65 |
+| ATR | 0.29 | BB Upper | 321.36 | BB Middle | 321.02 |
+| BB Lower | 320.68 | BB %B | -0.0505 | BB Width | 0.2108 |
+| Ulcer Index | 0.12 |  |  |  |  |
 
 ### ⚡ Momentum Indicators
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| RSI 7 | 45.46 | RSI 14 | 48.47 | RSI 21 | 50.03 |
-| Stoch %K | 25.00 | Stoch %D | 26.37 | ROC | -0.2486 |
-| Williams %R | -75.00 | Awe. Osc. | 0.0156 | KAMA | 321.37 |
-| PPO | 0.0061 | PVO | -28.3537 | TSI | 1.9481 |
-| Ult. Osc. | 49.36 |  |  |  |  |
+| RSI 7 | 32.55 | RSI 14 | 41.62 | RSI 21 | 44.88 |
+| Stoch %K | 0.00 | Stoch %D | 17.95 | ROC | -0.1712 |
+| Williams %R | -100.00 | Awe. Osc. | -0.1065 | KAMA | 321.24 |
+| PPO | -0.0088 | PVO | -21.7183 | TSI | -2.1970 |
+| Ult. Osc. | 47.77 |  |  |  |  |
 
 ### 📦 Volume Indicators
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 6246055 | CMF | 0.0148 | Acc/Dist | 2423207 |
-| MFI | 29.29 | Force Index | 292 | EOM | -92.394597 |
-| VPT | 4698 | NVI | 984.97 | VWAP | 321.45 |
+| OBV | 6181297 | CMF | -0.1123 | Acc/Dist | 2389120 |
+| MFI | 34.96 | Force Index | -1547 | EOM | -139.047900 |
+| VPT | 4642 | NVI | 987.12 | VWAP | 321.04 |
 
 ### 🕯️ Price Action
 
 | Price Chg % |
 |------------:|
-| -0.0156 |
+| -0.0468 |
 
 ---
 
 ## FORTIS_NS
 
-**Date:** `2026-06-19 09:30:00` &nbsp;|&nbsp; **Close:** `956.65` &nbsp;|&nbsp; **Signal:** 🔴 **SELL**
+**Date:** `2026-06-19 09:45:00` &nbsp;|&nbsp; **Close:** `955.80` &nbsp;|&nbsp; **Signal:** 🔴 **SELL**
 
 ### 📈 Trend Indicators
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| SMA 5 | 957.74 | SMA 10 | 957.12 | SMA 20 | 958.45 |
-| SMA 50 | 958.37 | SMA 100 | 956.29 | SMA 200 | 953.85 |
-| EMA 5 | 957.32 | EMA 10 | 957.55 | EMA 20 | 957.93 |
-| EMA 50 | 957.76 | EMA 100 | 956.56 | EMA 200 | 954.80 |
-| WMA 10 | 957.27 | WMA 20 | 957.82 | MACD | -0.3681 |
-| MACD Signal | -0.2156 | MACD Diff | -0.1525 | ADX | 31.90 |
-| ADX+ | 15.15 | ADX- | 28.95 | Aroon Up | 40.00 |
-| Aroon Down | 76.00 | Aroon Ind | -36.00 | CCI | -82.80 |
-| DPO | 0.76 | Mass Index | 28.45 | Ichimoku A | 957.04 |
-| Ichimoku B | 958.17 | Ichimoku Base | 958.17 | Ichimoku Conv | 955.90 |
-| PSAR | 958.93 | STC | 0.06 | TRIX | -0.0034 |
-| Vortex + | 0.91 | Vortex - | 1.11 |  |  |
+| SMA 5 | 955.75 | SMA 10 | 955.83 | SMA 20 | 956.56 |
+| SMA 50 | 957.78 | SMA 100 | 956.77 | SMA 200 | 954.27 |
+| EMA 5 | 955.72 | EMA 10 | 955.95 | EMA 20 | 956.42 |
+| EMA 50 | 957.01 | EMA 100 | 956.45 | EMA 200 | 954.99 |
+| WMA 10 | 955.81 | WMA 20 | 956.12 | MACD | -0.6121 |
+| MACD Signal | -0.5805 | MACD Diff | -0.0317 | ADX | 24.28 |
+| ADX+ | 22.57 | ADX- | 23.13 | Aroon Up | 0.00 |
+| Aroon Down | 16.00 | Aroon Ind | -16.00 | CCI | -52.90 |
+| DPO | 0.24 | Mass Index | 23.69 | Ichimoku A | 956.49 |
+| Ichimoku B | 958.17 | Ichimoku Base | 956.25 | Ichimoku Conv | 956.73 |
+| PSAR | 954.07 | STC | 22.84 | TRIX | -0.0094 |
+| Vortex + | 0.87 | Vortex - | 0.95 |  |  |
 
 ### 🌡️ Volatility Indicators
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| KC Upper | 960.35 | KC Middle | 958.40 | KC Lower | 956.45 |
-| DC Upper | 963.25 | DC Middle | 958.17 | DC Lower | 953.10 |
-| ATR | 1.64 | BB Upper | 961.62 | BB Middle | 958.45 |
-| BB Lower | 955.27 | BB %B | 0.2171 | BB Width | 0.6619 |
-| Ulcer Index | 0.34 |  |  |  |  |
+| KC Upper | 957.80 | KC Middle | 956.57 | KC Lower | 955.34 |
+| DC Upper | 959.00 | DC Middle | 956.73 | DC Lower | 954.45 |
+| ATR | 1.52 | BB Upper | 958.78 | BB Middle | 956.56 |
+| BB Lower | 954.34 | BB %B | 0.3291 | BB Width | 0.4649 |
+| Ulcer Index | 0.24 |  |  |  |  |
 
 ### ⚡ Momentum Indicators
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| RSI 7 | 40.41 | RSI 14 | 43.79 | RSI 21 | 45.85 |
-| Stoch %K | 48.63 | Stoch %D | 49.37 | ROC | -0.3438 |
-| Williams %R | -51.37 | Awe. Osc. | -0.6535 | KAMA | 958.07 |
-| PPO | -0.0384 | PVO | -9.8006 | TSI | -6.4111 |
-| Ult. Osc. | 52.90 |  |  |  |  |
+| RSI 7 | 47.09 | RSI 14 | 45.95 | RSI 21 | 46.37 |
+| Stoch %K | 29.67 | Stoch %D | 20.15 | ROC | -0.1828 |
+| Williams %R | -70.33 | Awe. Osc. | -1.5463 | KAMA | 956.85 |
+| PPO | -0.0640 | PVO | -31.5814 | TSI | -10.2982 |
+| Ult. Osc. | 54.89 |  |  |  |  |
 
 ### 📦 Volume Indicators
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 283170 | CMF | 0.1752 | Acc/Dist | -497235 |
-| MFI | 54.28 | Force Index | -192 | EOM | -33640.236492 |
-| VPT | -84 | NVI | 968.42 | VWAP | 956.74 |
+| OBV | 279046 | CMF | -0.1123 | Acc/Dist | -500229 |
+| MFI | 43.17 | Force Index | -383 | EOM | 21237.540014 |
+| VPT | -91 | NVI | 968.83 | VWAP | 956.17 |
 
 ### 🕯️ Price Action
 
 | Price Chg % |
 |------------:|
-| -0.0888 |
+| 0.0523 |
 
 ---
 
 ## GMRAIRPORT_NS
 
-**Date:** `2026-06-19 09:30:00` &nbsp;|&nbsp; **Close:** `109.42` &nbsp;|&nbsp; **Signal:** 🟡 **HOLD**
+**Date:** `2026-06-19 09:45:00` &nbsp;|&nbsp; **Close:** `109.74` &nbsp;|&nbsp; **Signal:** 🟡 **HOLD**
 
 ### 📈 Trend Indicators
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| SMA 5 | 109.57 | SMA 10 | 109.50 | SMA 20 | 109.73 |
-| SMA 50 | 110.24 | SMA 100 | 110.35 | SMA 200 | 110.09 |
-| EMA 5 | 109.53 | EMA 10 | 109.57 | EMA 20 | 109.73 |
-| EMA 50 | 110.06 | EMA 100 | 110.18 | EMA 200 | 110.03 |
-| WMA 10 | 109.52 | WMA 20 | 109.58 | MACD | -0.2274 |
-| MACD Signal | -0.2436 | MACD Diff | 0.0162 | ADX | 31.32 |
-| ADX+ | 23.85 | ADX- | 42.10 | Aroon Up | 16.00 |
-| Aroon Down | 80.00 | Aroon Ind | -64.00 | CCI | -64.61 |
-| DPO | 0.04 | Mass Index | 27.43 | Ichimoku A | 109.73 |
-| Ichimoku B | 110.03 | Ichimoku Base | 109.95 | Ichimoku Conv | 109.52 |
-| PSAR | 109.32 | STC | 62.50 | TRIX | -0.0335 |
-| Vortex + | 0.98 | Vortex - | 0.91 |  |  |
+| SMA 5 | 109.65 | SMA 10 | 109.60 | SMA 20 | 109.55 |
+| SMA 50 | 109.92 | SMA 100 | 110.23 | SMA 200 | 110.13 |
+| EMA 5 | 109.67 | EMA 10 | 109.62 | EMA 20 | 109.62 |
+| EMA 50 | 109.83 | EMA 100 | 110.02 | EMA 200 | 109.96 |
+| WMA 10 | 109.63 | WMA 20 | 109.57 | MACD | -0.0478 |
+| MACD Signal | -0.1057 | MACD Diff | 0.0579 | ADX | 19.50 |
+| ADX+ | 27.23 | ADX- | 22.09 | Aroon Up | 96.00 |
+| Aroon Down | 20.00 | Aroon Ind | 76.00 | CCI | 158.47 |
+| DPO | -0.20 | Mass Index | 24.10 | Ichimoku A | 109.56 |
+| Ichimoku B | 110.03 | Ichimoku Base | 109.53 | Ichimoku Conv | 109.58 |
+| PSAR | 109.37 | STC | 99.98 | TRIX | -0.0150 |
+| Vortex + | 1.14 | Vortex - | 0.81 |  |  |
 
 ### 🌡️ Volatility Indicators
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| KC Upper | 109.86 | KC Middle | 109.73 | KC Lower | 109.59 |
-| DC Upper | 110.55 | DC Middle | 109.93 | DC Lower | 109.30 |
-| ATR | 0.14 | BB Upper | 110.45 | BB Middle | 109.73 |
-| BB Lower | 109.00 | BB %B | 0.2893 | BB Width | 1.3215 |
-| Ulcer Index | 0.82 |  |  |  |  |
+| KC Upper | 109.66 | KC Middle | 109.55 | KC Lower | 109.44 |
+| DC Upper | 109.76 | DC Middle | 109.56 | DC Lower | 109.35 |
+| ATR | 0.12 | BB Upper | 109.76 | BB Middle | 109.55 |
+| BB Lower | 109.35 | BB %B | 0.9541 | BB Width | 0.3739 |
+| Ulcer Index | 0.13 |  |  |  |  |
 
 ### ⚡ Momentum Indicators
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| RSI 7 | 32.29 | RSI 14 | 32.34 | RSI 21 | 33.18 |
-| Stoch %K | 24.49 | Stoch %D | 44.35 | ROC | -0.2371 |
-| Williams %R | -75.51 | Awe. Osc. | -0.5054 | KAMA | 109.66 |
-| PPO | -0.2071 | PVO | -20.6757 | TSI | -35.3762 |
-| Ult. Osc. | 48.95 |  |  |  |  |
+| RSI 7 | 64.97 | RSI 14 | 53.67 | RSI 21 | 49.04 |
+| Stoch %K | 95.12 | Stoch %D | 86.34 | ROC | 0.2100 |
+| Williams %R | -4.88 | Awe. Osc. | 0.0269 | KAMA | 109.65 |
+| PPO | -0.0436 | PVO | -6.0798 | TSI | -8.2668 |
+| Ult. Osc. | 62.55 |  |  |  |  |
 
 ### 📦 Volume Indicators
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 1385403 | CMF | 0.0606 | Acc/Dist | -701607 |
-| MFI | 31.58 | Force Index | -969 | EOM | -55.981236 |
-| VPT | 195 | NVI | 1043.95 | VWAP | 109.54 |
+| OBV | 1438217 | CMF | -0.0195 | Acc/Dist | -701600 |
+| MFI | 80.09 | Force Index | 612 | EOM | 10.567533 |
+| VPT | 344 | NVI | 1045.95 | VWAP | 109.54 |
 
 ### 🕯️ Price Action
 
 | Price Chg % |
 |------------:|
-| -0.1825 |
+| -0.0182 |
 
 ---
 
 ## GODREJPROP_NS
 
-**Date:** `2026-06-19 09:30:00` &nbsp;|&nbsp; **Close:** `1787.50` &nbsp;|&nbsp; **Signal:** 🔴 **SELL**
+**Date:** `2026-06-19 09:45:00` &nbsp;|&nbsp; **Close:** `1788.00` &nbsp;|&nbsp; **Signal:** 🟡 **HOLD**
 
 ### 📈 Trend Indicators
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| SMA 5 | 1789.68 | SMA 10 | 1790.49 | SMA 20 | 1794.59 |
-| SMA 50 | 1803.93 | SMA 100 | 1801.96 | SMA 200 | 1806.22 |
-| EMA 5 | 1789.49 | EMA 10 | 1790.90 | EMA 20 | 1794.53 |
-| EMA 50 | 1799.98 | EMA 100 | 1802.12 | EMA 200 | 1801.86 |
-| WMA 10 | 1789.97 | WMA 20 | 1791.43 | MACD | -4.6817 |
-| MACD Signal | -4.5771 | MACD Diff | -0.1046 | ADX | 43.37 |
-| ADX+ | 14.19 | ADX- | 41.84 | Aroon Up | 0.00 |
-| Aroon Down | 52.00 | Aroon Ind | -52.00 | CCI | -70.70 |
-| DPO | -2.19 | Mass Index | 28.64 | Ichimoku A | 1795.20 |
-| Ichimoku B | 1799.75 | Ichimoku Base | 1799.55 | Ichimoku Conv | 1790.85 |
-| PSAR | 1794.40 | STC | 0.00 | TRIX | -0.0387 |
-| Vortex + | 0.93 | Vortex - | 0.94 |  |  |
+| SMA 5 | 1788.22 | SMA 10 | 1788.10 | SMA 20 | 1788.58 |
+| SMA 50 | 1798.00 | SMA 100 | 1800.17 | SMA 200 | 1804.15 |
+| EMA 5 | 1788.24 | EMA 10 | 1788.33 | EMA 20 | 1789.60 |
+| EMA 50 | 1794.66 | EMA 100 | 1798.52 | EMA 200 | 1799.96 |
+| WMA 10 | 1788.23 | WMA 20 | 1788.24 | MACD | -2.2703 |
+| MACD Signal | -2.9409 | MACD Diff | 0.6706 | ADX | 30.32 |
+| ADX+ | 20.96 | ADX- | 26.52 | Aroon Up | 16.00 |
+| Aroon Down | 60.00 | Aroon Ind | -44.00 | CCI | -26.82 |
+| DPO | -0.49 | Mass Index | 23.60 | Ichimoku A | 1789.48 |
+| Ichimoku B | 1799.75 | Ichimoku Base | 1789.95 | Ichimoku Conv | 1789.00 |
+| PSAR | 1791.16 | STC | 99.51 | TRIX | -0.0253 |
+| Vortex + | 0.90 | Vortex - | 0.96 |  |  |
 
 ### 🌡️ Volatility Indicators
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| KC Upper | 1797.25 | KC Middle | 1794.50 | KC Lower | 1791.75 |
-| DC Upper | 1812.40 | DC Middle | 1798.95 | DC Lower | 1785.50 |
-| ATR | 2.86 | BB Upper | 1810.31 | BB Middle | 1794.59 |
-| BB Lower | 1778.88 | BB %B | 0.2742 | BB Width | 1.7513 |
-| Ulcer Index | 1.04 |  |  |  |  |
+| KC Upper | 1790.64 | KC Middle | 1788.73 | KC Lower | 1786.83 |
+| DC Upper | 1791.90 | DC Middle | 1788.70 | DC Lower | 1785.50 |
+| ATR | 2.31 | BB Upper | 1791.62 | BB Middle | 1788.58 |
+| BB Lower | 1785.55 | BB %B | 0.4038 | BB Width | 0.3398 |
+| Ulcer Index | 0.25 |  |  |  |  |
 
 ### ⚡ Momentum Indicators
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| RSI 7 | 33.55 | RSI 14 | 33.08 | RSI 21 | 34.26 |
-| Stoch %K | 22.47 | Stoch %D | 47.94 | ROC | -0.1620 |
-| Williams %R | -77.53 | Awe. Osc. | -12.0774 | KAMA | 1792.71 |
-| PPO | -0.2606 | PVO | -26.2508 | TSI | -35.2734 |
-| Ult. Osc. | 41.23 |  |  |  |  |
+| RSI 7 | 46.56 | RSI 14 | 43.07 | RSI 21 | 41.76 |
+| Stoch %K | 39.06 | Stoch %D | 43.75 | ROC | -0.0671 |
+| Williams %R | -60.94 | Awe. Osc. | -2.4974 | KAMA | 1791.38 |
+| PPO | -0.1268 | PVO | -35.7659 | TSI | -17.7285 |
+| Ult. Osc. | 36.36 |  |  |  |  |
 
 ### 📦 Volume Indicators
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 270348 | CMF | 0.0040 | Acc/Dist | 120180 |
-| MFI | 55.25 | Force Index | -626 | EOM | -304335.221122 |
-| VPT | 619 | NVI | 970.33 | VWAP | 1790.49 |
+| OBV | 265360 | CMF | -0.4266 | Acc/Dist | 114601 |
+| MFI | 43.58 | Force Index | -173 | EOM | -191570.881226 |
+| VPT | 617 | NVI | 972.61 | VWAP | 1788.16 |
 
 ### 🕯️ Price Action
 
 | Price Chg % |
 |------------:|
-| -0.1508 |
+| -0.0168 |
 
 ---
 
 ## HAVELLS_NS
 
-**Date:** `2026-06-19 09:30:00` &nbsp;|&nbsp; **Close:** `1185.70` &nbsp;|&nbsp; **Signal:** 🔴 **SELL**
+**Date:** `2026-06-19 09:45:00` &nbsp;|&nbsp; **Close:** `1184.60` &nbsp;|&nbsp; **Signal:** 🟡 **HOLD**
 
 ### 📈 Trend Indicators
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| SMA 5 | 1188.32 | SMA 10 | 1188.82 | SMA 20 | 1189.68 |
-| SMA 50 | 1192.17 | SMA 100 | 1188.86 | SMA 200 | 1189.89 |
-| EMA 5 | 1187.69 | EMA 10 | 1188.49 | EMA 20 | 1189.63 |
-| EMA 50 | 1190.47 | EMA 100 | 1190.09 | EMA 200 | 1190.37 |
-| WMA 10 | 1188.39 | WMA 20 | 1188.75 | MACD | -1.3248 |
-| MACD Signal | -1.0872 | MACD Diff | -0.2376 | ADX | 28.95 |
-| ADX+ | 17.27 | ADX- | 35.42 | Aroon Up | 12.00 |
-| Aroon Down | 48.00 | Aroon Ind | -36.00 | CCI | -113.45 |
-| DPO | -1.78 | Mass Index | 30.04 | Ichimoku A | 1189.75 |
-| Ichimoku B | 1191.05 | Ichimoku Base | 1191.30 | Ichimoku Conv | 1188.20 |
-| PSAR | 1190.20 | STC | 0.00 | TRIX | -0.0145 |
-| Vortex + | 0.92 | Vortex - | 1.04 |  |  |
+| SMA 5 | 1184.26 | SMA 10 | 1183.91 | SMA 20 | 1185.36 |
+| SMA 50 | 1189.73 | SMA 100 | 1188.69 | SMA 200 | 1189.22 |
+| EMA 5 | 1184.30 | EMA 10 | 1184.40 | EMA 20 | 1185.43 |
+| EMA 50 | 1187.69 | EMA 100 | 1188.60 | EMA 200 | 1189.53 |
+| WMA 10 | 1184.05 | WMA 20 | 1184.45 | MACD | -1.5227 |
+| MACD Signal | -1.7530 | MACD Diff | 0.2303 | ADX | 31.48 |
+| ADX+ | 23.62 | ADX- | 32.51 | Aroon Up | 4.00 |
+| Aroon Down | 76.00 | Aroon Ind | -72.00 | CCI | -36.38 |
+| DPO | -1.46 | Mass Index | 22.51 | Ichimoku A | 1185.10 |
+| Ichimoku B | 1189.75 | Ichimoku Base | 1186.55 | Ichimoku Conv | 1183.65 |
+| PSAR | 1186.12 | STC | 75.00 | TRIX | -0.0227 |
+| Vortex + | 0.81 | Vortex - | 1.14 |  |  |
 
 ### 🌡️ Volatility Indicators
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| KC Upper | 1191.30 | KC Middle | 1189.69 | KC Lower | 1188.08 |
-| DC Upper | 1195.10 | DC Middle | 1190.30 | DC Lower | 1185.50 |
-| ATR | 1.41 | BB Upper | 1195.06 | BB Middle | 1189.68 |
-| BB Lower | 1184.31 | BB %B | 0.1293 | BB Width | 0.9036 |
-| Ulcer Index | 0.56 |  |  |  |  |
+| KC Upper | 1186.35 | KC Middle | 1185.44 | KC Lower | 1184.54 |
+| DC Upper | 1190.00 | DC Middle | 1186.20 | DC Lower | 1182.40 |
+| ATR | 1.00 | BB Upper | 1189.50 | BB Middle | 1185.36 |
+| BB Lower | 1181.23 | BB %B | 0.4075 | BB Width | 0.6977 |
+| Ulcer Index | 0.42 |  |  |  |  |
 
 ### ⚡ Momentum Indicators
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| RSI 7 | 23.27 | RSI 14 | 30.53 | RSI 21 | 34.96 |
-| Stoch %K | 3.85 | Stoch %D | 27.44 | ROC | -0.1179 |
-| Williams %R | -96.15 | Awe. Osc. | -3.3515 | KAMA | 1189.32 |
-| PPO | -0.1113 | PVO | -22.5733 | TSI | -24.1730 |
-| Ult. Osc. | 40.51 |  |  |  |  |
+| RSI 7 | 49.13 | RSI 14 | 40.31 | RSI 21 | 39.78 |
+| Stoch %K | 51.16 | Stoch %D | 45.55 | ROC | -0.0928 |
+| Williams %R | -48.84 | Awe. Osc. | -2.9809 | KAMA | 1184.47 |
+| PPO | -0.1284 | PVO | -36.7638 | TSI | -30.7099 |
+| Ult. Osc. | 56.53 |  |  |  |  |
 
 ### 📦 Volume Indicators
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 314848 | CMF | -0.0247 | Acc/Dist | 216902 |
-| MFI | 44.84 | Force Index | -1211 | EOM | -160104.734905 |
-| VPT | 337 | NVI | 1004.72 | VWAP | 1188.60 |
+| OBV | 314668 | CMF | -0.4006 | Acc/Dist | 212564 |
+| MFI | 22.77 | Force Index | -248 | EOM | -5.044228 |
+| VPT | 333 | NVI | 1005.06 | VWAP | 1184.29 |
 
 ### 🕯️ Price Action
 
 | Price Chg % |
 |------------:|
-| -0.1516 |
+| -0.0084 |
 
 ---
 
 ## HEROMOTOCO_NS
 
-**Date:** `2026-06-19 09:30:00` &nbsp;|&nbsp; **Close:** `5006.40` &nbsp;|&nbsp; **Signal:** 🟡 **HOLD**
+**Date:** `2026-06-19 09:45:00` &nbsp;|&nbsp; **Close:** `5008.10` &nbsp;|&nbsp; **Signal:** 🟡 **HOLD**
 
 ### 📈 Trend Indicators
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| SMA 5 | 5011.72 | SMA 10 | 5008.36 | SMA 20 | 5010.43 |
-| SMA 50 | 5015.81 | SMA 100 | 5013.78 | SMA 200 | 5006.93 |
-| EMA 5 | 5010.43 | EMA 10 | 5009.82 | EMA 20 | 5010.87 |
-| EMA 50 | 5013.26 | EMA 100 | 5012.74 | EMA 200 | 5011.41 |
-| WMA 10 | 5009.96 | WMA 20 | 5008.60 | MACD | -1.7994 |
-| MACD Signal | -2.5893 | MACD Diff | 0.7899 | ADX | 28.61 |
-| ADX+ | 22.49 | ADX- | 32.37 | Aroon Up | 36.00 |
-| Aroon Down | 40.00 | Aroon Ind | -4.00 | CCI | -16.72 |
-| DPO | -7.33 | Mass Index | 30.42 | Ichimoku A | 5010.07 |
-| Ichimoku B | 5010.90 | Ichimoku Base | 5010.90 | Ichimoku Conv | 5009.25 |
-| PSAR | 5020.59 | STC | 90.13 | TRIX | -0.0083 |
-| Vortex + | 0.96 | Vortex - | 0.91 |  |  |
+| SMA 5 | 5008.64 | SMA 10 | 5005.88 | SMA 20 | 5006.57 |
+| SMA 50 | 5011.86 | SMA 100 | 5013.12 | SMA 200 | 5007.69 |
+| EMA 5 | 5007.69 | EMA 10 | 5006.85 | EMA 20 | 5006.95 |
+| EMA 50 | 5009.64 | EMA 100 | 5010.75 | EMA 200 | 5010.51 |
+| WMA 10 | 5007.12 | WMA 20 | 5006.02 | MACD | -0.8091 |
+| MACD Signal | -1.7339 | MACD Diff | 0.9247 | ADX | 17.49 |
+| ADX+ | 23.39 | ADX- | 23.73 | Aroon Up | 36.00 |
+| Aroon Down | 44.00 | Aroon Ind | -8.00 | CCI | 35.95 |
+| DPO | -5.57 | Mass Index | 23.82 | Ichimoku A | 5006.40 |
+| Ichimoku B | 5010.90 | Ichimoku Base | 5007.85 | Ichimoku Conv | 5004.95 |
+| PSAR | 5013.06 | STC | 97.02 | TRIX | -0.0055 |
+| Vortex + | 1.13 | Vortex - | 0.90 |  |  |
 
 ### 🌡️ Volatility Indicators
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| KC Upper | 5016.18 | KC Middle | 5010.12 | KC Lower | 5004.06 |
-| DC Upper | 5030.00 | DC Middle | 5010.90 | DC Lower | 4991.80 |
-| ATR | 6.05 | BB Upper | 5027.46 | BB Middle | 5010.43 |
-| BB Lower | 4993.41 | BB %B | 0.3815 | BB Width | 0.6795 |
-| Ulcer Index | 0.37 |  |  |  |  |
+| KC Upper | 5010.58 | KC Middle | 5006.14 | KC Lower | 5001.70 |
+| DC Upper | 5017.50 | DC Middle | 5007.85 | DC Lower | 4998.20 |
+| ATR | 4.45 | BB Upper | 5015.44 | BB Middle | 5006.57 |
+| BB Lower | 4997.71 | BB %B | 0.5863 | BB Width | 0.3541 |
+| Ulcer Index | 0.22 |  |  |  |  |
 
 ### ⚡ Momentum Indicators
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| RSI 7 | 42.45 | RSI 14 | 43.82 | RSI 21 | 44.40 |
-| Stoch %K | 55.78 | Stoch %D | 82.59 | ROC | 0.2001 |
-| Williams %R | -44.22 | Awe. Osc. | -3.6338 | KAMA | 5012.10 |
-| PPO | -0.0359 | PVO | -28.5458 | TSI | -9.0499 |
-| Ult. Osc. | 57.34 |  |  |  |  |
+| RSI 7 | 56.34 | RSI 14 | 50.80 | RSI 21 | 49.05 |
+| Stoch %K | 81.19 | Stoch %D | 73.51 | ROC | 0.0839 |
+| Williams %R | -18.81 | Awe. Osc. | 0.8712 | KAMA | 5007.76 |
+| PPO | -0.0162 | PVO | -31.4750 | TSI | -4.5989 |
+| Ult. Osc. | 71.29 |  |  |  |  |
 
 ### 📦 Volume Indicators
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 123223 | CMF | -0.3758 | Acc/Dist | 100717 |
-| MFI | 55.91 | Force Index | -784 | EOM | -6155015.010360 |
-| VPT | 77 | NVI | 1002.70 | VWAP | 5005.80 |
+| OBV | 121874 | CMF | 0.2426 | Acc/Dist | 102596 |
+| MFI | 55.02 | Force Index | -62 | EOM | -900079.900568 |
+| VPT | 76 | NVI | 1003.26 | VWAP | 5004.72 |
 
 ### 🕯️ Price Action
 
 | Price Chg % |
 |------------:|
-| -0.1914 |
+| 0.0140 |
 
 ---
 
 ## HINDPETRO_NS
 
-**Date:** `2026-06-19 09:30:00` &nbsp;|&nbsp; **Close:** `397.65` &nbsp;|&nbsp; **Signal:** 🔴 **SELL**
+**Date:** `2026-06-19 09:45:00` &nbsp;|&nbsp; **Close:** `397.65` &nbsp;|&nbsp; **Signal:** 🟡 **HOLD**
 
 ### 📈 Trend Indicators
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| SMA 5 | 398.38 | SMA 10 | 398.40 | SMA 20 | 399.18 |
-| SMA 50 | 400.46 | SMA 100 | 399.88 | SMA 200 | 400.26 |
-| EMA 5 | 398.19 | EMA 10 | 398.50 | EMA 20 | 399.10 |
-| EMA 50 | 399.82 | EMA 100 | 400.05 | EMA 200 | 400.46 |
-| WMA 10 | 398.35 | WMA 20 | 398.65 | MACD | -0.7277 |
-| MACD Signal | -0.6547 | MACD Diff | -0.0730 | ADX | 50.31 |
-| ADX+ | 10.66 | ADX- | 40.98 | Aroon Up | 12.00 |
-| Aroon Down | 40.00 | Aroon Ind | -28.00 | CCI | -105.12 |
-| DPO | -0.43 | Mass Index | 27.04 | Ichimoku A | 398.96 |
-| Ichimoku B | 399.73 | Ichimoku Base | 399.73 | Ichimoku Conv | 398.20 |
-| PSAR | 399.90 | STC | 0.00 | TRIX | -0.0250 |
-| Vortex + | 0.96 | Vortex - | 1.09 |  |  |
+| SMA 5 | 397.88 | SMA 10 | 397.94 | SMA 20 | 398.04 |
+| SMA 50 | 399.59 | SMA 100 | 399.62 | SMA 200 | 400.01 |
+| EMA 5 | 397.85 | EMA 10 | 397.92 | EMA 20 | 398.18 |
+| EMA 50 | 398.96 | EMA 100 | 399.50 | EMA 200 | 400.11 |
+| WMA 10 | 397.91 | WMA 20 | 397.93 | MACD | -0.4097 |
+| MACD Signal | -0.4906 | MACD Diff | 0.0809 | ADX | 41.73 |
+| ADX+ | 12.93 | ADX- | 29.83 | Aroon Up | 0.00 |
+| Aroon Down | 40.00 | Aroon Ind | -40.00 | CCI | -80.87 |
+| DPO | -0.49 | Mass Index | 20.64 | Ichimoku A | 398.06 |
+| Ichimoku B | 399.73 | Ichimoku Base | 398.23 | Ichimoku Conv | 397.90 |
+| PSAR | 398.69 | STC | 99.22 | TRIX | -0.0191 |
+| Vortex + | 0.96 | Vortex - | 0.99 |  |  |
 
 ### 🌡️ Volatility Indicators
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| KC Upper | 399.86 | KC Middle | 399.20 | KC Lower | 398.54 |
-| DC Upper | 402.00 | DC Middle | 399.62 | DC Lower | 397.25 |
-| ATR | 0.58 | BB Upper | 401.84 | BB Middle | 399.18 |
-| BB Lower | 396.53 | BB %B | 0.2112 | BB Width | 1.3292 |
-| Ulcer Index | 0.75 |  |  |  |  |
+| KC Upper | 398.33 | KC Middle | 398.03 | KC Lower | 397.74 |
+| DC Upper | 398.95 | DC Middle | 398.20 | DC Lower | 397.45 |
+| ATR | 0.38 | BB Upper | 398.71 | BB Middle | 398.04 |
+| BB Lower | 397.37 | BB %B | 0.2114 | BB Width | 0.3374 |
+| Ulcer Index | 0.21 |  |  |  |  |
 
 ### ⚡ Momentum Indicators
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| RSI 7 | 29.56 | RSI 14 | 34.77 | RSI 21 | 37.39 |
-| Stoch %K | 9.09 | Stoch %D | 28.15 | ROC | -0.4880 |
-| Williams %R | -90.91 | Awe. Osc. | -1.8531 | KAMA | 399.51 |
-| PPO | -0.1822 | PVO | -19.2182 | TSI | -22.6812 |
-| Ult. Osc. | 44.58 |  |  |  |  |
+| RSI 7 | 36.75 | RSI 14 | 39.17 | RSI 21 | 40.29 |
+| Stoch %K | 21.43 | Stoch %D | 46.51 | ROC | -0.0879 |
+| Williams %R | -78.57 | Awe. Osc. | -0.6359 | KAMA | 398.83 |
+| PPO | -0.1028 | PVO | -39.2844 | TSI | -19.0118 |
+| Ult. Osc. | 48.65 |  |  |  |  |
 
 ### 📦 Volume Indicators
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 2645496 | CMF | 0.0409 | Acc/Dist | 265528 |
-| MFI | 41.35 | Force Index | -2526 | EOM | -760.647816 |
-| VPT | 4380 | NVI | 943.22 | VWAP | 398.65 |
+| OBV | 2694978 | CMF | 0.2443 | Acc/Dist | 308547 |
+| MFI | 57.54 | Force Index | 107 | EOM | -854.896596 |
+| VPT | 4398 | NVI | 945.00 | VWAP | 397.93 |
 
 ### 🕯️ Price Action
 
 | Price Chg % |
 |------------:|
-| -0.1130 |
+| -0.0879 |
 
 ---
 
 ## ICICIBANK_NS
 
-**Date:** `2026-06-19 09:30:00` &nbsp;|&nbsp; **Close:** `1340.30` &nbsp;|&nbsp; **Signal:** 🟡 **HOLD**
+**Date:** `2026-06-19 09:45:00` &nbsp;|&nbsp; **Close:** `1345.20` &nbsp;|&nbsp; **Signal:** 🟡 **HOLD**
 
 ### 📈 Trend Indicators
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| SMA 5 | 1341.32 | SMA 10 | 1341.51 | SMA 20 | 1342.58 |
-| SMA 50 | 1342.48 | SMA 100 | 1342.56 | SMA 200 | 1343.53 |
-| EMA 5 | 1341.20 | EMA 10 | 1341.64 | EMA 20 | 1342.17 |
-| EMA 50 | 1342.50 | EMA 100 | 1342.66 | EMA 200 | 1342.25 |
-| WMA 10 | 1341.27 | WMA 20 | 1342.10 | MACD | -0.5261 |
-| MACD Signal | -0.2679 | MACD Diff | -0.2582 | ADX | 15.83 |
-| ADX+ | 18.78 | ADX- | 27.42 | Aroon Up | 40.00 |
-| Aroon Down | 40.00 | Aroon Ind | 0.00 | CCI | -88.56 |
-| DPO | 1.92 | Mass Index | 24.77 | Ichimoku A | 1341.65 |
-| Ichimoku B | 1341.90 | Ichimoku Base | 1341.90 | Ichimoku Conv | 1341.40 |
-| PSAR | 1339.26 | STC | 0.55 | TRIX | -0.0025 |
-| Vortex + | 0.72 | Vortex - | 1.17 |  |  |
+| SMA 5 | 1345.16 | SMA 10 | 1345.18 | SMA 20 | 1343.49 |
+| SMA 50 | 1343.27 | SMA 100 | 1342.61 | SMA 200 | 1343.58 |
+| EMA 5 | 1345.21 | EMA 10 | 1344.81 | EMA 20 | 1344.12 |
+| EMA 50 | 1343.36 | EMA 100 | 1343.09 | EMA 200 | 1342.53 |
+| WMA 10 | 1345.21 | WMA 20 | 1344.38 | MACD | 0.7734 |
+| MACD Signal | 0.5674 | MACD Diff | 0.2060 | ADX | 19.89 |
+| ADX+ | 30.59 | ADX- | 16.60 | Aroon Up | 96.00 |
+| Aroon Down | 44.00 | Aroon Ind | 52.00 | CCI | 73.68 |
+| DPO | -1.29 | Mass Index | 20.57 | Ichimoku A | 1344.10 |
+| Ichimoku B | 1341.90 | Ichimoku Base | 1342.95 | Ichimoku Conv | 1345.25 |
+| PSAR | 1341.23 | STC | 99.96 | TRIX | 0.0057 |
+| Vortex + | 1.48 | Vortex - | 0.59 |  |  |
 
 ### 🌡️ Volatility Indicators
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| KC Upper | 1344.21 | KC Middle | 1342.49 | KC Lower | 1340.77 |
-| DC Upper | 1346.80 | DC Middle | 1341.90 | DC Lower | 1337.00 |
-| ATR | 1.44 | BB Upper | 1345.92 | BB Middle | 1342.58 |
-| BB Lower | 1339.25 | BB %B | 0.1578 | BB Width | 0.4973 |
-| Ulcer Index | 0.32 |  |  |  |  |
+| KC Upper | 1344.24 | KC Middle | 1343.42 | KC Lower | 1342.60 |
+| DC Upper | 1345.90 | DC Middle | 1342.95 | DC Lower | 1340.00 |
+| ATR | 0.98 | BB Upper | 1347.15 | BB Middle | 1343.49 |
+| BB Lower | 1339.83 | BB %B | 0.7339 | BB Width | 0.5441 |
+| Ulcer Index | 0.07 |  |  |  |  |
 
 ### ⚡ Momentum Indicators
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| RSI 7 | 36.43 | RSI 14 | 41.56 | RSI 21 | 43.79 |
-| Stoch %K | 1.73 | Stoch %D | 24.72 | ROC | -0.2010 |
-| Williams %R | -98.27 | Awe. Osc. | -1.4618 | KAMA | 1342.07 |
-| PPO | -0.0392 | PVO | -28.2407 | TSI | -8.1159 |
-| Ult. Osc. | 41.93 |  |  |  |  |
+| RSI 7 | 59.56 | RSI 14 | 57.82 | RSI 21 | 56.02 |
+| Stoch %K | 85.42 | Stoch %D | 89.98 | ROC | 0.2534 |
+| Williams %R | -14.58 | Awe. Osc. | 2.1365 | KAMA | 1344.66 |
+| PPO | 0.0576 | PVO | -34.5012 | TSI | 14.2877 |
+| Ult. Osc. | 53.19 |  |  |  |  |
 
 ### 📦 Volume Indicators
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 1249751 | CMF | -0.3408 | Acc/Dist | 1161354 |
-| MFI | 23.11 | Force Index | -28450 | EOM | -1028.424307 |
-| VPT | -1297 | NVI | 993.73 | VWAP | 1342.58 |
+| OBV | 1383534 | CMF | 0.0402 | Acc/Dist | 1226645 |
+| MFI | 74.41 | Force Index | 3054 | EOM | -426.122939 |
+| VPT | -1172 | NVI | 995.36 | VWAP | 1344.54 |
 
 ### 🕯️ Price Action
 
 | Price Chg % |
 |------------:|
-| -0.1341 |
+| -0.0372 |
 
 ---
 
