@@ -1,6 +1,6 @@
 # 📊 Mid Cap Technical Indicators
 
-**Last updated:** 2026-06-21 12:01:40 IST
+**Last updated:** 2026-06-21 12:16:22 IST
 
 ---
 
@@ -715,9 +715,9 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 551947 | CMF | 0.4297 | Acc/Dist | 378705 |
+| OBV | 523842 | CMF | 0.4297 | Acc/Dist | 363493 |
 | MFI | 86.37 | Force Index | 22029 | EOM | 4210264.075735 |
-| VPT | 1567 | NVI | 980.57 | VWAP | 12542.82 |
+| VPT | 1506 | NVI | 980.89 | VWAP | 12542.82 |
 
 ### 🕯️ Price Action
 
@@ -943,9 +943,9 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 328565 | CMF | 0.0296 | Acc/Dist | 141392 |
+| OBV | 318206 | CMF | 0.0296 | Acc/Dist | 139240 |
 | MFI | 60.29 | Force Index | 190 | EOM | 190233.838019 |
-| VPT | 676 | NVI | 961.27 | VWAP | 1796.17 |
+| VPT | 638 | NVI | 963.03 | VWAP | 1796.17 |
 
 ### 🕯️ Price Action
 
