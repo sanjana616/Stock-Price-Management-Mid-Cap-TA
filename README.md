@@ -1,6 +1,6 @@
 # 📊 Mid Cap Technical Indicators
 
-**Last updated:** 2026-06-24 23:31:53 IST
+**Last updated:** 2026-06-24 23:46:43 IST
 
 ---
 
@@ -337,9 +337,9 @@
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
 | SMA 5 | 2117.78 | SMA 10 | 2116.83 | SMA 20 | 2119.36 |
-| SMA 50 | 2122.49 | SMA 100 | 2120.55 | SMA 200 | 2129.11 |
+| SMA 50 | 2122.49 | SMA 100 | 2120.55 | SMA 200 | 2129.16 |
 | EMA 5 | 2115.97 | EMA 10 | 2117.33 | EMA 20 | 2119.16 |
-| EMA 50 | 2121.34 | EMA 100 | 2123.38 | EMA 200 | 2128.48 |
+| EMA 50 | 2121.34 | EMA 100 | 2123.38 | EMA 200 | 2128.49 |
 | WMA 10 | 2116.88 | WMA 20 | 2117.94 | MACD | -2.1579 |
 | MACD Signal | -1.7726 | MACD Diff | -0.3853 | ADX | 21.73 |
 | ADX+ | 17.57 | ADX- | 39.29 | Aroon Up | 4.00 |
@@ -373,9 +373,9 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 813696 | CMF | -0.2360 | Acc/Dist | 431257 |
+| OBV | 809636 | CMF | -0.2360 | Acc/Dist | 432113 |
 | MFI | 36.32 | Force Index | -6135 | EOM | -3338675.402088 |
-| VPT | 66 | NVI | 1082.85 | VWAP | 2118.15 |
+| VPT | 65 | NVI | 1083.41 | VWAP | 2118.15 |
 
 ### 🕯️ Price Action
 
