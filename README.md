@@ -1,6 +1,6 @@
 # 📊 Mid Cap Technical Indicators
 
-**Last updated:** 2026-06-29 07:16:19 IST
+**Last updated:** 2026-06-29 07:31:53 IST
 
 ---
 
@@ -909,7 +909,7 @@
 | SMA 5 | 1851.28 | SMA 10 | 1850.72 | SMA 20 | 1852.11 |
 | SMA 50 | 1853.41 | SMA 100 | 1855.65 | SMA 200 | 1861.86 |
 | EMA 5 | 1851.24 | EMA 10 | 1851.30 | EMA 20 | 1851.62 |
-| EMA 50 | 1853.19 | EMA 100 | 1855.48 | EMA 200 | 1856.43 |
+| EMA 50 | 1853.19 | EMA 100 | 1855.48 | EMA 200 | 1856.42 |
 | WMA 10 | 1851.04 | WMA 20 | 1851.48 | MACD | -0.5480 |
 | MACD Signal | -0.6323 | MACD Diff | 0.0842 | ADX | 18.97 |
 | ADX+ | 22.51 | ADX- | 30.11 | Aroon Up | 28.00 |
@@ -943,9 +943,9 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 520047 | CMF | 0.0440 | Acc/Dist | 167976 |
+| OBV | 521231 | CMF | 0.0440 | Acc/Dist | 167976 |
 | MFI | 64.01 | Force Index | -219 | EOM | 115643.578524 |
-| VPT | 587 | NVI | 986.73 | VWAP | 1851.59 |
+| VPT | 587 | NVI | 986.24 | VWAP | 1851.59 |
 
 ### 🕯️ Price Action
 
